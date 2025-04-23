@@ -1,0 +1,1388 @@
+Year,DEC Region,County,Town,Waterbody,Date,Number,Species Name,Size (inches )
+2024,4,Albany,Westerlo,Basic Creek,April - first week,30,Brown Trout,12 -15 inches
+2024,4,Albany,Westerlo,Basic Creek,April - first week,260,Rainbow Trout,9 - 10 inches
+2024,4,Albany,Coeymans,Hannacrois Creek,April - second week,70,Brown Trout,12 -15 inches
+2024,4,Albany,Coeymans,Hannacrois Creek,April - second week,580,Brown Trout,9 - 10 inches
+2024,4,Albany,City of Albany,Six Mile Waterworks,March - April,2100,Rainbow Trout,8 inches
+2024,4,Albany,Berne,Thompsons Lake,Spring,2370,Brown Trout,8 inches
+2024,4,Albany,New Scotland,Vly Creek,March - third week,40,Brown Trout,12 -15 inches
+2024,4,Albany,New Scotland,Vly Creek,March - third week,320,Brown Trout,9 - 10 inches
+2024,9,Allegany,Allen,Allen lake,April - second week,520,Brown Trout,12 -15 inches
+2024,9,Allegany,Allen,Allen lake,Spring,3080,Brook Trout,8 inches
+2024,9,Allegany,Allen,Allen lake,Spring,2940,Rainbow Trout,8 inches
+2024,9,Allegany,West Almond,Black Creek,April - first week,60,Brown Trout,12 -15 inches
+2024,9,Allegany,West Almond,Black Creek,April - first week,540,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Bolivar,California Hollow Brook,March - third week,40,Brown Trout,12 -15 inches
+2024,9,Allegany,Bolivar,California Hollow Brook,March - third week,350,Brown Trout,9 - 10 inches
+2024,9,Allegany,Almond,Canacadea Creek,April - second week,40,Brown Trout,12 -15 inches
+2024,9,Allegany,Almond,Canacadea Creek,April - second week,300,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Burns,Canaseraga Creek,April - first week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Burns,Canaseraga Creek,April - first week,880,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Clarksville,Clarksville Town Pond,Early April,210,Rainbow Trout,8 inches
+2024,9,Allegany,Independence,Cryder Creek,March - fourth week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Independence,Cryder Creek,March - fourth week,850,Brown Trout,9 - 10 inches
+2024,9,Allegany,Clarksville,Dodge Creek,March - third week,120,Brown Trout,12 -15 inches
+2024,9,Allegany,Clarksville,Dodge Creek,March - third week,1030,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Andover,Dyke Creek,March - fourth week,20,Brown Trout,12 -15 inches
+2024,9,Allegany,Andover,Dyke Creek,March - fourth week,150,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Wellsville,Dyke Creek,March - fourth week,40,Brown Trout,12 -15 inches
+2024,9,Allegany,Wellsville,Dyke Creek,March - fourth week,300,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Amity,Genesee River,April - first week,620,Brown Trout,12 -15 inches
+2024,9,Allegany,Amity,Genesee River,April - first week,5320,Brown Trout,9 - 10 inches
+2024,9,Allegany,Amity,Genesee River,April - third week,620,Brown Trout,12 -15 inches
+2024,9,Allegany,Amity,Genesee River,April - third week,5320,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Amity,Genesee River,March - third week,620,Brown Trout,12 -15 inches
+2024,9,Allegany,Amity,Genesee River,March - third week,5320,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Amity,Genesee River,May - first week,620,Brown Trout,12 -15 inches
+2024,9,Allegany,Amity,Genesee River,May - first week,5320,Brown Trout,9 - 10 inches
+2024,9,Allegany,Wellsville,Genesee River,April - first week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Wellsville,Genesee River,April - first week,830,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Wellsville,Genesee River,April - third week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Wellsville,Genesee River,April - third week,830,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Wellsville,Genesee River,March - third week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Wellsville,Genesee River,March - third week,830,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Wellsville,Genesee River,May - first week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Wellsville,Genesee River,May - first week,830,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,Bolivar,Little Genesee Creek,March - third week,840,Brook Trout,9 - 10 inches
+2024,9,Allegany,Bolivar,Little Genesee Creek,March - third week,100,Brown Trout,12 -15 inches
+2024,9,Allegany,Bolivar,Root Creek,March - third week,30,Brown Trout,12 -15 inches
+2024,9,Allegany,Bolivar,Root Creek,March - third week,220,Rainbow Trout,9 - 10 inches
+2024,9,Allegany,New Hudson,Rushford Camp Pond,June,200,Rainbow Trout,8 inches
+2024,9,Allegany,Caneadea,Rushford Lake,Spring,1640,Brown Trout,8 inches
+2024,9,Allegany,Caneadea,Rushford Lake,Spring,3990,Rainbow Trout,8 inches
+2024,7,Broome,Sanford,Arctic Lake,Spring,2620,Rainbow Trout,8 inches
+2024,7,Broome,Fenton,Chenango Lake,April,3150,Rainbow Trout,8 inches
+2024,7,Broome,Fenton,Chenango Lake,March,5360,Rainbow Trout,8 inches
+2024,7,Broome,Fenton,Chenango Lake,May,3150,Rainbow Trout,8 inches
+2024,7,Broome,Lisle,Dudley Creek,March - third week,40,Brown Trout,12 -15 inches
+2024,7,Broome,Lisle,Dudley Creek,March - third week,310,Brown Trout,9 - 10 inches
+2024,7,Broome,Maine,East Branch Nanticoke Creek,March - third week,20,Brown Trout,12 -15 inches
+2024,7,Broome,Maine,East Branch Nanticoke Creek,March - third week,160,Brown Trout,9 - 10 inches
+2024,7,Broome,Union,Finch Hollow Site 1 (Overbrook),April,1050,Rainbow Trout,8 inches
+2024,7,Broome,Nanticoke,Greenwood Lake,April,2100,Rainbow Trout,8 inches
+2024,7,Broome,Chenango,Little Choconut 2e,Spring,210,Rainbow Trout,8 inches
+2024,7,Broome,Maine,Nanticoke 7a,April,630,Rainbow Trout,8 inches
+2024,7,Broome,Maine,Nanticoke Creek,March - third week,230,Brown Trout,12 -15 inches
+2024,7,Broome,Maine,Nanticoke Creek,March - third week,2030,Brown Trout,9 - 10 inches
+2024,7,Broome,Union,Nanticoke Creek,March - third week,100,Brown Trout,12 -15 inches
+2024,7,Broome,Union,Nanticoke Creek,March - third week,840,Brown Trout,9 - 10 inches
+2024,7,Broome,Lisle,Nanticoke Lake,May,2420,Rainbow Trout,8 inches
+2024,7,Broome,Sanford,Oquaga Creek,April - first week,250,Brown Trout,12 -15 inches
+2024,7,Broome,Sanford,Oquaga Creek,April - first week,2150,Brown Trout,9 - 10 inches
+2024,7,Broome,Sanford,Palmers Pond,Spring,210,Rainbow Trout,8 inches
+2024,7,Broome,Union,Patterson Pond (#1),April,840,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Allegany,Birch Run Pond #1,Early April,210,Rainbow Trout,8 inches
+2024,9,Cattaraugus,South Valley,Bone Run,April - second week,40,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,South Valley,Bone Run,April - second week,330,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,Franklinville,Case Lake,April - second week,630,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Franklinville,Case Lake,Spring,1640,Brown Trout,8 inches
+2024,9,Cattaraugus,Franklinville,Case Lake,Spring,1890,Rainbow Trout,8 inches
+2024,9,Cattaraugus,East Otto,Cattaraugus Creek S Br,April - first week,80,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,East Otto,Cattaraugus Creek S Br,April - first week,680,Rainbow Trout,9 - 10 inches
+2024,9,Cattaraugus,Randolph,County Pond A,Early April,210,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Randolph,County Pond B,Early April,210,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Ashford,Crandall Pond,Mid April,320,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Freedom,Elton Creek,March - third week,360,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Freedom,Elton Creek,March - third week,3550,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,Allegany,Five Mile Creek,April - first week,100,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Allegany,Five Mile Creek,April - first week,890,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,Great Valley,Forks Creek,April - first week,130,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Great Valley,Forks Creek,April - first week,1110,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,Franklinville,Franklinville Conservation Club Pond,March - fourth week,200,Rainbow Trout,9 - 10 inches
+2024,9,Cattaraugus,Ellicottville,Great Valley Creek,April - first week,50,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Ellicottville,Great Valley Creek,April - first week,400,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,Great Valley,Great Valley Creek,April - first week,210,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Great Valley,Great Valley Creek,April - first week,1830,Rainbow Trout,9 - 10 inches
+2024,9,Cattaraugus,Farmersville,Harwood Lake,April - second week,370,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Farmersville,Harwood Lake,Spring,4820,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Franklinville,Ischua Creek,March - fourth week,780,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Franklinville,Ischua Creek,March - fourth week,6810,Rainbow Trout,9 - 10 inches
+2024,9,Cattaraugus,Dayton,Lake Flavia,Mid April,2100,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Conewango,Little Conewango Creek,March - fourth week,160,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Conewango,Little Conewango Creek,March - fourth week,1420,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,Mansfield,Mansfield Creek,April - first week,40,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Mansfield,Mansfield Creek,April - first week,370,Brown Trout,9 - 10 inches
+2024,9,Cattaraugus,New Albion,New Albion Lake,Spring,320,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,New Albion,New Albion Lake,Spring,2550,Brown Trout,8 inches
+2024,9,Cattaraugus,New Albion,New Albion Lake,Spring,2940,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Randolph,Paisley Park Pond,March,50,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Randolph,Paisley Park Pond,Mid April,60,Brook Trout,8 inches
+2024,9,Cattaraugus,Elko,Quaker Lake,March,420,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Elko,Quaker Lake,Spring,3820,Brown Trout,8 inches
+2024,9,Cattaraugus,Elko,Quaker Lake,Spring,4410,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Cold Spring,Quaker Run,March - fourth week,170,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Cold Spring,Quaker Run,March - fourth week,1440,Rainbow Trout,9 - 10 inches
+2024,9,Cattaraugus,Red House,Red House Brook,March - fourth week,180,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Red House,Red House Brook,March - fourth week,1530,Rainbow Trout,9 - 10 inches
+2024,9,Cattaraugus,Red House,Red House Lake,April,1470,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Red House,Red House Lake,May,790,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Red House,Science Lake,March,210,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Red House,Science Lake,Mid April,260,Rainbow Trout,8 inches
+2024,9,Cattaraugus,Humphrey,Wrights Creek,April - second week,50,Brown Trout,12 -15 inches
+2024,9,Cattaraugus,Humphrey,Wrights Creek,April - second week,380,Rainbow Trout,9 - 10 inches
+2024,7,Cayuga,Ledyard,Cayuga Lake,April,9100,Brown Trout,8 inches
+2024,7,Cayuga,Summer Hill,Fall Creek,April - third week,1310,Brook Trout,9 - 10 inches
+2024,7,Cayuga,Sterling,Lake Ontario,Mid May,33170,Brown Trout,8 inches
+2024,7,Cayuga,Brutus,North Brook,April - third week,100,Brown Trout,12 -15 inches
+2024,7,Cayuga,Brutus,North Brook,April - third week,850,Brown Trout,9 - 10 inches
+2024,7,Cayuga,Locke,Owasco Inlet,Mid April,3100,Brown Trout,9 - 10 inches
+2024,7,Cayuga,Scipio,Owasco Lake,May,9100,Brown Trout,8 inches
+2024,7,Cayuga,Scipio,Owasco Lake,May,5000,Rainbow Trout,8 inches
+2024,7,Cayuga,Auburn,Owasco Outlet,April - fourth week,80,Brown Trout,12 -15 inches
+2024,7,Cayuga,Auburn,Owasco Outlet,April - fourth week,700,Brown Trout,9 - 10 inches
+2024,7,Cayuga,Genoa,Salmon Creek,April - second week,210,Brown Trout,12 -15 inches
+2024,7,Cayuga,Genoa,Salmon Creek,April - second week,1760,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,Arkwright,Canadaway Creek,April - first week,40,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Arkwright,Canadaway Creek,April - first week,310,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,Stockton,Cassadaga Creek,March - fourth week,50,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Stockton,Cassadaga Creek,March - fourth week,410,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,Poland,Clay Pond,Early April,100,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Poland,Clay Pond,Early April,320,Rainbow Trout,8 inches
+2024,9,Chautauqua,Villenova,Conewango Ck W Br,April - first week,30,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Villenova,Conewango Ck W Br,April - first week,280,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,Harmony,Goose Creek,April - fourth week,20,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Harmony,Goose Creek,April - fourth week,230,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,Harmony,Goose Creek,April - second week,20,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Harmony,Goose Creek,April - second week,230,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,Harmony,Goose Creek,March - fourth week,20,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Harmony,Goose Creek,March - fourth week,230,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,Harmony,Goose Creek,May - second week,20,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Harmony,Goose Creek,May - second week,230,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,April - fourth week,30,Brown Trout,12 -15 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,April - fourth week,220,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,April - second week,30,Brown Trout,12 -15 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,April - second week,220,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,March - fourth week,30,Brown Trout,12 -15 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,March - fourth week,220,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,May - second week,30,Brown Trout,12 -15 inches
+2024,9,Chautauqua,N. Harmony/Harmony,Goose Creek,May - second week,220,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,North Harmony,Goose Creek,April - fourth week,40,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,North Harmony,Goose Creek,April - second week,40,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,North Harmony,Goose Creek,March - fourth week,40,Rainbow Trout,9 - 10 inches
+2024,9,Chautauqua,North Harmony,Goose Creek,May - second week,40,Brown Trout,9 - 10 inches
+2024,9,Chautauqua,Gerry,Mill Creek,April - first week,60,Brown Trout,12 -15 inches
+2024,9,Chautauqua,Gerry,Mill Creek,April - first week,450,Rainbow Trout,9 - 10 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,April - fourth week,170,Brown Trout,12 -15 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,April - fourth week,1380,Brown Trout,9 - 10 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,April - second week,170,Brown Trout,12 -15 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,April - second week,1380,Brown Trout,9 - 10 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,March - fourth week,170,Brown Trout,12 -15 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,March - fourth week,1380,Brown Trout,9 - 10 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,May - second week,170,Brown Trout,12 -15 inches
+2024,8,Chemung,Van Etten,Cayuta Creek,May - second week,1380,Brown Trout,9 - 10 inches
+2024,8,Chemung,Elmira,Eldridge Lake,April,1050,Rainbow Trout,8 inches
+2024,8,Chemung,Elmira,Eldridge Lake,March - April,160,Brown Trout,12 -15 inches
+2024,8,Chemung,Elmira,Eldridge Lake,May,520,Rainbow Trout,8 inches
+2024,8,Chemung,Erin,Park Station Pond,April,470,Brown Trout,12 -15 inches
+2024,8,Chemung,Erin,Park Station Pond,April,1930,Rainbow Trout,8 inches
+2024,8,Chemung,Big Flats,Sing Sing Creek,March - fourth week,30,Brown Trout,12 -15 inches
+2024,8,Chemung,Big Flats,Sing Sing Creek,March - fourth week,300,Brown Trout,9 - 10 inches
+2024,7,Chenango,Mcdonough,Bowman Lake,April,1680,Rainbow Trout,8 inches
+2024,7,Chenango,Mcdonough,Bowman Lake,Spring,770,Brook Trout,8 inches
+2024,7,Chenango,Greene,Genegantslet Creek,April - first week,230,Brown Trout,12 -15 inches
+2024,7,Chenango,Greene,Genegantslet Creek,April - first week,1940,Brown Trout,9 - 10 inches
+2024,7,Chenango,Smithville,Genegantslet Creek,April - first week,80,Brown Trout,12 -15 inches
+2024,7,Chenango,Smithville,Genegantslet Creek,April - first week,660,Brown Trout,9 - 10 inches
+2024,7,Chenango,Guilford,Guilford Lake,April,210,Brown Trout,12 -15 inches
+2024,7,Chenango,Guilford,Guilford Lake,Spring,1890,Rainbow Trout,8 inches
+2024,7,Chenango,N Norwich,Jeffrey Pond,May,1210,Brook Trout,8 inches
+2024,7,Chenango,New Berlin,Mill Brook Reservoir,April,160,Brown Trout,12 -15 inches
+2024,7,Chenango,New Berlin,Mill Brook Reservoir,April,2100,Rainbow Trout,8 inches
+2024,7,Chenango,Otselic,Otselic River,March - fourth week,670,Brown Trout,12 -15 inches
+2024,7,Chenango,Otselic,Otselic River,March - fourth week,6000,Brown Trout,9 - 10 inches
+2024,7,Chenango,Pharsalia,Pharsalia Y Pond,Spring,110,Brook Trout,8 inches
+2024,5,Clinton,Altona,Ace Club Pond,Spring,420,Rainbow Trout,8 inches
+2024,5,Clinton,Altona,Altona School Pond,Spring,200,Rainbow Trout,8 inches
+2024,5,Clinton,"Black Brook, Wilmington, Jay",Black Brook,May - first week,540,Brook Trout,9 - 10 inches
+2024,5,Clinton,Dannemora,Chazy Lake,Spring,8080,Rainbow Trout,8 inches
+2024,5,Clinton,Peru and Ausable,Dry Mill Brook,April - first week,60,Brown Trout,12 -15 inches
+2024,5,Clinton,Peru and Ausable,Dry Mill Brook,April - first week,540,Brown Trout,9 - 10 inches
+2024,5,Clinton,Chazy,Little Chazy River,April - first week,40,Brown Trout,12 -15 inches
+2024,5,Clinton,Chazy,Little Chazy River,April - first week,320,Brown Trout,9 - 10 inches
+2024,5,Clinton,Black Brook,Military Pond,Spring,590,Brown Trout,8 inches
+2024,5,Clinton,Black Brook,Mud Pond,Spring,910,Brown Trout,8 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,April - fourth week,60,Brown Trout,12 -15 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,April - fourth week,540,Brown Trout,9 - 10 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,April - second week,60,Brown Trout,12 -15 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,April - second week,540,Brown Trout,9 - 10 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,May - fourth week,60,Brown Trout,12 -15 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,May - fourth week,540,Brown Trout,9 - 10 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,May - second week,60,Brown Trout,12 -15 inches
+2024,5,Clinton,"Altona, E'burg, Moores",North Branch Great Chazy River,May - second week,540,Brown Trout,9 - 10 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,April - fourth week,100,Rainbow Trout,12 -14 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,April - fourth week,880,Rainbow Trout,9 - 10 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,April - second week,100,Brown Trout,12 -15 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,April - second week,880,Brown Trout,9 - 10 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,May - fourth week,100,Rainbow Trout,12 -14 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,May - fourth week,880,Rainbow Trout,9 - 10 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,May - second week,100,Brown Trout,12 -15 inches
+2024,5,Clinton,Mooers,North Branch Great Chazy River,May - second week,880,Brown Trout,9 - 10 inches
+2024,5,Clinton,Black Brook and Saranac,North Branch Saranac River,April - third week,390,Brown Trout,12 -15 inches
+2024,5,Clinton,Black Brook and Saranac,North Branch Saranac River,April - third week,3360,Brown Trout,9 - 10 inches
+2024,5,Clinton,Peru,Peru F & G Club Pond,Spring,100,Rainbow Trout,8 inches
+2024,5,Clinton,Peru,Salmon River,April - first week,30,Brown Trout,12 -15 inches
+2024,5,Clinton,Peru,Salmon River,April - first week,290,Brown Trout,9 - 10 inches
+2024,5,Clinton,Black Brook,Saranac River,April - fourth week,170,Brown Trout,12 -15 inches
+2024,5,Clinton,Black Brook,Saranac River,April - fourth week,1540,Brown Trout,9 - 10 inches
+2024,5,Clinton,Black Brook,Saranac River,June - second week,170,Rainbow Trout,12 -14 inches
+2024,5,Clinton,Black Brook,Saranac River,June - second week,1540,Rainbow Trout,9 - 10 inches
+2024,5,Clinton,Black Brook,Saranac River,May - fourth week,170,Brown Trout,12 -15 inches
+2024,5,Clinton,Black Brook,Saranac River,May - fourth week,1540,Brown Trout,9 - 10 inches
+2024,5,Clinton,Black Brook,Saranac River,May - second week,170,Rainbow Trout,12 -14 inches
+2024,5,Clinton,Black Brook,Saranac River,May - second week,1540,Rainbow Trout,9 - 10 inches
+2024,5,Clinton,Plattsburgh,Saranac River,April - fourth week,340,Brown Trout,12 -15 inches
+2024,5,Clinton,Plattsburgh,Saranac River,April - fourth week,2980,Brown Trout,9 - 10 inches
+2024,5,Clinton,Saranac,Saranac River,April - fourth week,230,Brown Trout,12 -15 inches
+2024,5,Clinton,Saranac,Saranac River,April - fourth week,1960,Brown Trout,9 - 10 inches
+2024,5,Clinton,Plattsburgh,Scribner Pond,May - June,100,Rainbow Trout,8 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,April - first week,110,Rainbow Trout,12 -14 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,April - first week,950,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,April - third week,110,Rainbow Trout,12 -14 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,April - third week,950,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,March - third week,110,Rainbow Trout,12 -14 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,March - third week,950,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,May - first week,110,Rainbow Trout,12 -14 inches
+2024,4,Columbia,Chatham,Kinderhook Creek,May - first week,950,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,April - first week,100,Rainbow Trout,12 -14 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,April - first week,870,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,April - third week,100,Rainbow Trout,12 -14 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,April - third week,870,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,March - third week,100,Rainbow Trout,12 -14 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,March - third week,870,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,May - first week,100,Rainbow Trout,12 -14 inches
+2024,4,Columbia,New Lebanon,Kinderhook Creek,May - first week,870,Rainbow Trout,9 - 10 inches
+2024,4,Columbia,Copake,Ore Pit Pond,April,320,Rainbow Trout,8 inches
+2024,4,Columbia,Canaan,Queechy Lake,Spring,1640,Brown Trout,8 inches
+2024,4,Columbia,Canaan,Queechy Lake,Spring,1890,Rainbow Trout,8 inches
+2024,4,Columbia,Clermont,Roeliff Jansen Kill,April - second week,620,Brown Trout,12 -15 inches
+2024,4,Columbia,Clermont,Roeliff Jansen Kill,April - second week,5340,Brown Trout,9 - 10 inches
+2024,4,Columbia,Gallatin,Roeliff Jansen Kill,April - second week,190,Brown Trout,12 -15 inches
+2024,4,Columbia,Gallatin,Roeliff Jansen Kill,April - second week,1630,Brown Trout,9 - 10 inches
+2024,4,Columbia,Greenport,Taghkanic Creek,April - first week,250,Brown Trout,12 -15 inches
+2024,4,Columbia,Greenport,Taghkanic Creek,April - first week,2140,Brown Trout,9 - 10 inches
+2024,4,Columbia,Ancram,Weed Mines Pond,April,210,Rainbow Trout,8 inches
+2024,7,Cortland,Homer,Casterline Pond,Mid April,260,Brown Trout,12 -15 inches
+2024,7,Cortland,Homer,Casterline Pond,Mid April,940,Rainbow Trout,8 inches
+2024,7,Cortland,Homer,Durkee Park Pond,Mid April,50,Brown Trout,12 -15 inches
+2024,7,Cortland,Homer,Durkee Park Pond,Mid April,230,Brown Trout,8 inches
+2024,7,Cortland,Homer,Durkee Park Pond,Mid April,520,Rainbow Trout,8 inches
+2024,7,Cortland,Cortlandville,East Branch Tioughnioga River,April - third week,100,Brown Trout,12 -15 inches
+2024,7,Cortland,Cortlandville,East Branch Tioughnioga River,April - third week,920,Brown Trout,9 - 10 inches
+2024,7,Cortland,Cuyler,East Branch Tioughnioga River,April - third week,10,Brown Trout,12 -15 inches
+2024,7,Cortland,Cuyler,East Branch Tioughnioga River,April - third week,80,Brown Trout,9 - 10 inches
+2024,7,Cortland,Homer,East Branch Tioughnioga River,April - third week,160,Brown Trout,12 -15 inches
+2024,7,Cortland,Homer,East Branch Tioughnioga River,April - third week,1450,Brown Trout,9 - 10 inches
+2024,7,Cortland,Truxton,East Branch Tioughnioga River,April - third week,200,Brown Trout,12 -15 inches
+2024,7,Cortland,Truxton,East Branch Tioughnioga River,April - third week,1780,Brown Trout,9 - 10 inches
+2024,7,Cortland,Preble,Little York Lake,April - third week,4090,Brown Trout,8 inches
+2024,7,Cortland,Cincinnatus,Otselic River,April - first week,10,Brown Trout,12 -15 inches
+2024,7,Cortland,Cincinnatus,Otselic River,April - first week,80,Brown Trout,9 - 10 inches
+2024,7,Cortland,Cincinnatus,Otselic River,March - fourth week,190,Brown Trout,12 -15 inches
+2024,7,Cortland,Cincinnatus,Otselic River,March - fourth week,1620,Brown Trout,9 - 10 inches
+2024,7,Cortland,Homer,West Branch Tioughnioga River,April - second week,220,Brown Trout,12 -15 inches
+2024,7,Cortland,Homer,West Branch Tioughnioga River,April - second week,1880,Brown Trout,9 - 10 inches
+2024,4,Delaware,Colchester,Beaver Kill,April - first week,250,Brown Trout,12 -15 inches
+2024,4,Delaware,Colchester,Beaver Kill,April - first week,2150,Brown Trout,9 - 10 inches
+2024,4,Delaware,Colchester,Beaver Kill,April - third week,250,Brown Trout,12 -15 inches
+2024,4,Delaware,Colchester,Beaver Kill,April - third week,2150,Brown Trout,9 - 10 inches
+2024,4,Delaware,Colchester,Beaver Kill,May - first week,250,Brown Trout,12 -15 inches
+2024,4,Delaware,Colchester,Beaver Kill,May - first week,2150,Brown Trout,9 - 10 inches
+2024,4,Delaware,Colchester,Beaver Kill,May - third week,250,Brown Trout,12 -15 inches
+2024,4,Delaware,Colchester,Beaver Kill,May - third week,2150,Brown Trout,9 - 10 inches
+2024,4,Delaware,Andes,Big Pond,Spring,230,Brown Trout,8 inches
+2024,4,Delaware,Andes,Big Pond,Spring,260,Rainbow Trout,8 inches
+2024,4,Delaware,Deposit and Tompkins,Cannonsville Reservoir,Early May,6820,Brown Trout,8 inches
+2024,4,Delaware,Davenport,Charlotte Creek,April - second week,440,Brown Trout,12 -15 inches
+2024,4,Delaware,Davenport,Charlotte Creek,April - second week,3760,Brown Trout,9 - 10 inches
+2024,4,Delaware,Middletown,Delaware River East Branch,April - fourth week,170,Brown Trout,12 -15 inches
+2024,4,Delaware,Middletown,Delaware River East Branch,April - fourth week,1420,Brown Trout,9 - 10 inches
+2024,4,Delaware,"Middletown, Roxbury",Delaware River East Branch,April - fourth week,90,Brown Trout,12 -15 inches
+2024,4,Delaware,"Middletown, Roxbury",Delaware River East Branch,April - fourth week,800,Brown Trout,9 - 10 inches
+2024,4,Delaware,Roxbury,Delaware River East Branch,April - fourth week,60,Brown Trout,12 -15 inches
+2024,4,Delaware,Roxbury,Delaware River East Branch,April - fourth week,550,Brown Trout,9 - 10 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,April - first week,190,Brown Trout,12 -15 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,April - first week,1620,Brown Trout,9 - 10 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,April - third week,190,Brown Trout,12 -15 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,April - third week,1620,Brown Trout,9 - 10 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,May - first week,190,Brown Trout,12 -15 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,May - first week,1620,Brown Trout,9 - 10 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,May - third week,190,Brown Trout,12 -15 inches
+2024,4,Delaware,Delhi,Delaware River West Branch,May - third week,1620,Brown Trout,9 - 10 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,April - first week,150,Brown Trout,12 -15 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,April - first week,1330,Brown Trout,9 - 10 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,April - third week,150,Brown Trout,12 -15 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,April - third week,1330,Brown Trout,9 - 10 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,May - first week,150,Brown Trout,12 -15 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,May - first week,1330,Brown Trout,9 - 10 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,May - third week,150,Brown Trout,12 -15 inches
+2024,4,Delaware,"Hamden, Walton",Delaware River West Branch,May - third week,1330,Brown Trout,9 - 10 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,April - first week,70,Brown Trout,12 -15 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,April - first week,640,Brown Trout,9 - 10 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,April - third week,70,Brown Trout,12 -15 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,April - third week,640,Brown Trout,9 - 10 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,May - first week,70,Brown Trout,12 -15 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,May - first week,640,Brown Trout,9 - 10 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,May - third week,70,Brown Trout,12 -15 inches
+2024,4,Delaware,Harpersfield,Delaware River West Branch,May - third week,640,Brown Trout,9 - 10 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,April - first week,20,Brown Trout,12 -15 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,April - first week,210,Brown Trout,9 - 10 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,April - third week,20,Brown Trout,12 -15 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,April - third week,210,Brown Trout,9 - 10 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,May - first week,20,Brown Trout,12 -15 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,May - first week,210,Brown Trout,9 - 10 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,May - third week,20,Brown Trout,12 -15 inches
+2024,4,Delaware,Kortright,Delaware River West Branch,May - third week,210,Brown Trout,9 - 10 inches
+2024,4,Delaware,Tompkins,Launt Pond,April,770,Brook Trout,8 inches
+2024,4,Delaware,Delhi,Little Delaware River,April - first week,30,Brown Trout,12 -15 inches
+2024,4,Delaware,Delhi,Little Delaware River,April - first week,220,Brown Trout,9 - 10 inches
+2024,4,Delaware,Andes,Little Pond,Spring,210,Brown Trout,12 -15 inches
+2024,4,Delaware,Andes,Little Pond,Spring,90,Brown Trout,8 inches
+2024,4,Delaware,Andes,Little Pond,Spring,210,Rainbow Trout,8 inches
+2024,4,Delaware,Colchester,Mud Pond,Spring,90,Brown Trout,8 inches
+2024,4,Delaware,Colchester,Mud Pond,Spring,320,Rainbow Trout,8 inches
+2024,4,Delaware,Colchester,Pepacton Reservoir,Spring,4550,Brown Trout,8 inches
+2024,3,Dutchess,Hyde Park,Crum Elbow Creek,March - fourth week,140,Rainbow Trout,12 -14 inches
+2024,3,Dutchess,Hyde Park,Crum Elbow Creek,March - fourth week,1330,Rainbow Trout,9 - 10 inches
+2024,3,Dutchess,"Beacon, Fishkill",Fishkill Creek,March - third week,40,Brown Trout,12 -15 inches
+2024,3,Dutchess,"Beacon, Fishkill",Fishkill Creek,March - third week,340,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Beekman,Fishkill Creek,March - third week,310,Brown Trout,12 -15 inches
+2024,3,Dutchess,Beekman,Fishkill Creek,March - third week,2650,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Fishkill,Fishkill Creek,March - third week,260,Brown Trout,12 -15 inches
+2024,3,Dutchess,Fishkill,Fishkill Creek,March - third week,2220,Brown Trout,9 - 10 inches
+2024,3,Dutchess,LaGrange,Overlook Park Pond,Mid April,420,Rainbow Trout,8 inches
+2024,3,Dutchess,Milan,Roeliff Jansen Kill,March - fourth week,90,Brown Trout,12 -15 inches
+2024,3,Dutchess,Milan,Roeliff Jansen Kill,March - fourth week,740,Brown Trout,9 - 10 inches
+2024,3,Dutchess,East Fishkill,Sprout Creek,March - fourth week,250,Brown Trout,12 -15 inches
+2024,3,Dutchess,East Fishkill,Sprout Creek,March - fourth week,2150,Brown Trout,9 - 10 inches
+2024,3,Dutchess,LaGrange,Sprout Creek,March - fourth week,40,Brown Trout,12 -15 inches
+2024,3,Dutchess,LaGrange,Sprout Creek,March - fourth week,300,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Dover,Swamp River,March - third week,60,Brown Trout,12 -15 inches
+2024,3,Dutchess,Dover,Swamp River,March - third week,510,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Beekman,Sylvan Lake,April,1820,Brown Trout,8 inches
+2024,3,Dutchess,Amenia,Ten Mile River,March - third week,200,Brown Trout,12 -15 inches
+2024,3,Dutchess,Amenia,Ten Mile River,March - third week,1670,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Dover,Ten Mile River,March - third week,70,Brown Trout,12 -15 inches
+2024,3,Dutchess,Dover,Ten Mile River,March - third week,600,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,April - first week,90,Brown Trout,12 -15 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,April - first week,750,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,April - third week,90,Brown Trout,12 -15 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,April - third week,750,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,March - third week,90,Brown Trout,12 -15 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,March - third week,750,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,May - first week,90,Brown Trout,12 -15 inches
+2024,3,Dutchess,Pleasant Valley,Wappingers Creek,May - first week,750,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,April - first week,260,Brown Trout,12 -15 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,April - first week,2260,Rainbow Trout,9 - 10 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,April - third week,260,Brown Trout,12 -15 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,April - third week,2260,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,March - third week,260,Brown Trout,12 -15 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,March - third week,2260,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,May - first week,260,Brown Trout,12 -15 inches
+2024,3,Dutchess,Poughkeepsie,Wappingers Creek,May - first week,2260,Rainbow Trout,9 - 10 inches
+2024,3,Dutchess,Amenia,Webatuck Creek,March - third week,40,Brown Trout,12 -15 inches
+2024,3,Dutchess,Amenia,Webatuck Creek,March - third week,330,Brown Trout,9 - 10 inches
+2024,3,Dutchess,Northeast,Webatuck Creek,March - third week,150,Brown Trout,12 -15 inches
+2024,3,Dutchess,Northeast,Webatuck Creek,March - third week,1270,Brown Trout,9 - 10 inches
+2024,9,Erie,Sardinia,Cattaraugus Creek,April - first week,300,Brown Trout,12 -15 inches
+2024,9,Erie,Sardinia,Cattaraugus Creek,April - first week,2580,Brown Trout,9 - 10 inches
+2024,9,Erie,Lancaster,Cayuga Creek,April - first week,220,Brown Trout,12 -15 inches
+2024,9,Erie,Lancaster,Cayuga Creek,April - first week,1900,Rainbow Trout,9 - 10 inches
+2024,9,Erie,Aurora,Cazenovia Creek - East Branch,March - fourth week,60,Brown Trout,12 -15 inches
+2024,9,Erie,Aurora,Cazenovia Creek - East Branch,March - fourth week,450,Brown Trout,9 - 10 inches
+2024,9,Erie,Aurora,Cazenovia Creek-East Branch,March - fourth week,70,Brown Trout,12 -15 inches
+2024,9,Erie,Aurora,Cazenovia Creek-East Branch,March - fourth week,590,Brown Trout,9 - 10 inches
+2024,9,Erie,Boston,Eighteenmile Creek,March - fourth week,40,Brown Trout,12 -15 inches
+2024,9,Erie,Boston,Eighteenmile Creek,March - fourth week,370,Brown Trout,9 - 10 inches
+2024,9,Erie,Evans,Eighteenmile Creek,Spring,5000,Rainbow Trout,9 - 10 inches
+2024,9,Erie,Amherst,Ellicott Creek,March - fourth week,70,Brown Trout,12 -15 inches
+2024,9,Erie,Amherst,Ellicott Creek,March - fourth week,640,Rainbow Trout,9 - 10 inches
+2024,9,Erie,Elma,Little Buffalo Creek,March - fourth week,50,Brown Trout,12 -15 inches
+2024,9,Erie,Elma,Little Buffalo Creek,March - fourth week,430,Rainbow Trout,9 - 10 inches
+2024,9,Erie,"Lancaster, Elma",Little Buffalo Creek,March - fourth week,40,Brown Trout,12 -15 inches
+2024,9,Erie,"Lancaster, Elma",Little Buffalo Creek,March - fourth week,300,Rainbow Trout,9 - 10 inches
+2024,9,Erie,Clarence,Main Park Pond - Village of Clarence,Early April,320,Rainbow Trout,8 inches
+2024,9,Erie,Concord,Sprague Brook Park -  Foote Road Pond,Mid April,50,Brown Trout,12 -15 inches
+2024,9,Erie,Concord,Sprague Brook Park -  Foote Road Pond,Mid April,100,Rainbow Trout,8 inches
+2024,9,Erie,Concord,Sprague Brook Park A and B Pond,Mid April,80,Brown Trout,12 -15 inches
+2024,9,Erie,Concord,Sprague Brook Park A and B Pond,Mid April,210,Rainbow Trout,8 inches
+2024,9,Erie,Concord,Sprague Brook Park Veteran's Pond,Mid April,80,Brown Trout,12 -15 inches
+2024,9,Erie,Concord,Sprague Brook Park Veteran's Pond,Mid April,210,Rainbow Trout,8 inches
+2024,9,Erie,Concord,Springville Field and Stream Club Pond,April - May,220,Brook Trout,8 inches
+2024,9,Erie,Lancaster,Westwood Park Pond,Early April,320,Rainbow Trout,8 inches
+2024,5,Essex,Minerva,Balfour Lake,Spring,1580,Rainbow Trout,8 inches
+2024,5,Essex,Minerva,Big Sherman Pond,Spring,410,Brown Trout,8 inches
+2024,5,Essex,Lewis/E'town,Black River,May - second week,510,Brook Trout,9 - 10 inches
+2024,5,Essex,E'town,Boquet River,May - first week,4280,Brook Trout,9 - 10 inches
+2024,5,Essex,Lewis & E'town,Boquet River,April - fourth week,350,Brown Trout,12 -15 inches
+2024,5,Essex,Lewis & E'town,Boquet River,April - fourth week,2990,Brown Trout,9 - 10 inches
+2024,5,Essex,Minerva,Boreas River,May - first week,160,Brown Trout,12 -15 inches
+2024,5,Essex,Minerva,Boreas River,May - first week,1320,Brown Trout,9 - 10 inches
+2024,5,Essex,Minerva,Boreas River,May - second week,50,Brown Trout,12 -15 inches
+2024,5,Essex,Minerva,Boreas River,May - second week,440,Brown Trout,9 - 10 inches
+2024,5,Essex,Minerva,Cheney Pond,Spring,1440,Brown Trout,8 inches
+2024,5,Essex,North Elba,Chubb River,April - third week,60,Brown Trout,12 -15 inches
+2024,5,Essex,North Elba,Chubb River,April - third week,500,Brown Trout,9 - 10 inches
+2024,5,Essex,Newcomb,Clear Pond,Spring,420,Rainbow Trout,8 inches
+2024,5,Essex,Ticonderoga,Clear Pond,Spring,360,Brown Trout,8 inches
+2024,5,Essex,Ticonderoga,Clear Pond,Spring,420,Rainbow Trout,8 inches
+2024,5,Essex,North Elba,Coldspring Pond,Spring,140,Brown Trout,8 inches
+2024,5,Essex,North Elba,Connery Pond,Spring,1270,Brown Trout,8 inches
+2024,5,Essex,North Hudson,Courtney Pond,May,270,Brown Trout,8 inches
+2024,5,Essex,Schroon,Crane Pond,Spring,1580,Rainbow Trout,8 inches
+2024,5,Essex,Minerva,Dimmick Pond,May,160,Brown Trout,12 -15 inches
+2024,5,Essex,"Crown Point, Ticonderoga",Eagle Lake,Spring,4180,Brown Trout,8 inches
+2024,5,Essex,Jay,East Branch Ausable River,April - third week,740,Brown Trout,12 -15 inches
+2024,5,Essex,Jay,East Branch Ausable River,April - third week,6300,Brown Trout,9 - 10 inches
+2024,5,Essex,Jay & Keene,East Branch Ausable River,April - second week,820,Brown Trout,12 -15 inches
+2024,5,Essex,Jay & Keene,East Branch Ausable River,April - second week,7010,Brown Trout,9 - 10 inches
+2024,5,Essex,Keene,East Branch Ausable River,May - second week,1950,Brook Trout,9 - 10 inches
+2024,5,Essex,Minerva,Fifth Lake Essex Chain,Spring,1160,Rainbow Trout,8 inches
+2024,5,Essex,Schroon,Glidden Marsh,Spring,140,Brown Trout,8 inches
+2024,5,Essex,Schroon,Goose Pond,Spring,420,Rainbow Trout,8 inches
+2024,5,Essex,Ticonderoga,Gooseneck Pond,Spring,740,Rainbow Trout,8 inches
+2024,5,Essex,Minerva,Hudson River,Spring,5000,Brown Trout,9 - 10 inches
+2024,5,Essex,Minerva,Hudson River,Spring,6000,Rainbow Trout,9 - 10 inches
+2024,5,Essex,Ticonderoga,La Chute,May - third week,90,Brown Trout,12 -15 inches
+2024,5,Essex,Ticonderoga,La Chute,May - third week,710,Brown Trout,9 - 10 inches
+2024,5,Essex,North Elba,Lake Placid,Spring,8920,Rainbow Trout,8 inches
+2024,5,Essex,North Elba,Lake Placid Outlet,May - second week,40,Brown Trout,12 -15 inches
+2024,5,Essex,North Elba,Lake Placid Outlet,May - second week,330,Brown Trout,9 - 10 inches
+2024,5,Essex,North Elba,Long Pond,Spring,450,Brown Trout,8 inches
+2024,5,Essex,Ticonderoga,Lost Pond,Spring,450,Brown Trout,8 inches
+2024,5,Essex,Ticonderoga,Lost Pond,Spring,1050,Rainbow Trout,8 inches
+2024,5,Essex,Moriah,Mill Brook,April - third week,80,Brown Trout,12 -15 inches
+2024,5,Essex,Moriah,Mill Brook,April - third week,660,Brown Trout,9 - 10 inches
+2024,5,Essex,Minerva,Minerva Stream,May - third week,760,Brook Trout,9 - 10 inches
+2024,5,Essex,North Elba,Mirror Lake,Spring,1360,Rainbow Trout,8 inches
+2024,5,Essex,St. Armand,Moose Pond,Spring,1360,Rainbow Trout,8 inches
+2024,5,Essex,North Hudson,Munson Pond,Spring,410,Brown Trout,8 inches
+2024,5,Essex,Schroon,Oliver Pond,Spring,740,Rainbow Trout,8 inches
+2024,5,Essex,North Elba,Owen Pond,Spring,410,Brown Trout,8 inches
+2024,5,Essex,Schroon,Paradox Lake,Spring,5560,Rainbow Trout,8 inches
+2024,5,Essex,Minerva,Rankin Pond,Spring,410,Brown Trout,8 inches
+2024,5,Essex,Moriah,Roe's Pond,Spring,180,Brown Trout,8 inches
+2024,5,Essex,St. Armand,Saranac River,April - fourth week,180,Brown Trout,12 -15 inches
+2024,5,Essex,St. Armand,Saranac River,April - fourth week,1550,Brown Trout,9 - 10 inches
+2024,5,Essex,North Hudson,Schroon River,May - first week,160,Brown Trout,12 -15 inches
+2024,5,Essex,North Hudson,Schroon River,May - first week,1370,Brown Trout,9 - 10 inches
+2024,5,Essex,North Elba,South Meadow Brook,May - second week,490,Brook Trout,9 - 10 inches
+2024,5,Essex,Lewis,Spruce Mill Brook,May - first week,70,Brown Trout,12 -15 inches
+2024,5,Essex,Lewis,Spruce Mill Brook,May - first week,560,Brown Trout,9 - 10 inches
+2024,5,Essex,Lewis,Spruce Mill Brook,May - second week,810,Brook Trout,9 - 10 inches
+2024,5,Essex,Elizabethtown,The Branch,May - first week,300,Brook Trout,9 - 10 inches
+2024,5,Essex,Minerva,Third Lake Essex Chain,Spring,2100,Rainbow Trout,8 inches
+2024,5,Essex,North Elba,Tom Peck Pond,Fall,430,Brown Trout,8 inches
+2024,5,Essex,Minerva,Trout Brook,May - fourth week,1030,Brook Trout,9 - 10 inches
+2024,5,Essex,Minerva,Twentyninth Pond,Spring,230,Brown Trout,8 inches
+2024,5,Essex,North Hudson,Vanderwacker Pond,Spring,270,Brown Trout,8 inches
+2024,5,Essex,Newcomb,Ward Pond,Spring,140,Brown Trout,8 inches
+2024,5,Essex,Jay,West Branch Ausable River,April - fourth week,120,Brown Trout,12 -15 inches
+2024,5,Essex,Jay,West Branch Ausable River,April - fourth week,1010,Brown Trout,9 - 10 inches
+2024,5,Essex,Jay,West Branch Ausable River,April - second week,120,Brown Trout,12 -15 inches
+2024,5,Essex,Jay,West Branch Ausable River,April - second week,1010,Brown Trout,9 - 10 inches
+2024,5,Essex,Jay,West Branch Ausable River,May - fourth week,120,Brown Trout,12 -15 inches
+2024,5,Essex,Jay,West Branch Ausable River,May - fourth week,1010,Brown Trout,9 - 10 inches
+2024,5,Essex,Jay,West Branch Ausable River,May - second week,120,Brown Trout,12 -15 inches
+2024,5,Essex,Jay,West Branch Ausable River,May - second week,1010,Brown Trout,9 - 10 inches
+2024,5,Essex,North Elba,West Branch Ausable River,April - second week,290,Brown Trout,12 -15 inches
+2024,5,Essex,North Elba,West Branch Ausable River,April - second week,2470,Brown Trout,9 - 10 inches
+2024,5,Essex,North Elba,West Branch Ausable River,May - second week,700,Brook Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,April - fourth week,90,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,April - fourth week,780,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,April - second week,90,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,April - second week,780,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,April - third week,280,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,April - third week,2490,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,June - first week,280,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,June - first week,2490,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - first week,280,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - first week,2490,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - fourth week,90,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - fourth week,780,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - second week,90,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - second week,780,Brown Trout,9 - 10 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - third week,280,Brown Trout,12 -15 inches
+2024,5,Essex,Wilmington,West Branch Ausable River,May - third week,2490,Brown Trout,9 - 10 inches
+2024,5,Essex,Westport,Westport Club Pond,Spring,100,Rainbow Trout,8 inches
+2024,5,Essex,Westport,Westport Reservoir 1,Spring,110,Brook Trout,8 inches
+2024,5,Essex,Westport,Westport Reservoir 2,Spring,110,Brook Trout,8 inches
+2024,5,Essex,Willsboro,Willsboro Club Pond 1,Spring,100,Rainbow Trout,8 inches
+2024,5,Essex,Willsboro,Willsboro Club Pond 2,Spring,90,Brown Trout,8 inches
+2024,5,Essex,Willsboro,Willsboro Club Pond 2,Spring,100,Rainbow Trout,8 inches
+2024,5,Essex,Wilmington,Winch Pond,Spring,230,Brown Trout,8 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,April - third week,110,Rainbow Trout,12 -14 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,April - third week,960,Rainbow Trout,9 - 10 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,June - first week,110,Brown Trout,12 -15 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,June - first week,960,Brown Trout,9 - 10 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,May - first week,110,Brown Trout,12 -15 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,May - first week,960,Brown Trout,9 - 10 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,May - third week,110,Rainbow Trout,12 -14 inches
+2024,5,Franklin,Chateaugay,Chateaugay River,May - third week,960,Rainbow Trout,9 - 10 inches
+2024,5,Franklin,Chateaugay-Bellmont,Chateaugay River,April - third week,250,Brown Trout,12 -15 inches
+2024,5,Franklin,Chateaugay-Bellmont,Chateaugay River,April - third week,2120,Brown Trout,9 - 10 inches
+2024,5,Franklin,Franklin,Chub Pond,Spring,140,Brown Trout,8 inches
+2024,5,Franklin,Brighton,Deer Pond,Spring,230,Brown Trout,8 inches
+2024,5,Franklin,Brandon,Deer River,May - first week,270,Brown Trout,12 -15 inches
+2024,5,Franklin,Brandon,Deer River,May - first week,2290,Brown Trout,9 - 10 inches
+2024,5,Franklin,Bellmont,Drain Pond,Spring,160,Rainbow Trout,8 inches
+2024,5,Franklin,Santa Clara,Green Pond,Spring,550,Brown Trout,8 inches
+2024,5,Franklin,Harrietstown,Lake Clear,Spring,1820,Brown Trout,8 inches
+2024,5,Franklin,Harrietstown,Lake Colby,Spring,3090,Brown Trout,8 inches
+2024,5,Franklin,Harrietstown,Lake Colby,Spring,3570,Rainbow Trout,8 inches
+2024,5,Franklin,Santa Clara,Little Long Pond (East),Spring,1050,Rainbow Trout,8 inches
+2024,5,Franklin,Moira & Bangor,Little Salmon River,April - first week,190,Brown Trout,12 -15 inches
+2024,5,Franklin,Moira & Bangor,Little Salmon River,April - first week,1660,Brown Trout,9 - 10 inches
+2024,5,Franklin,Malone,Malone Village Pond,April,100,Rainbow Trout,8 inches
+2024,5,Franklin,Malone,Malone Village Pond,May,100,Brown Trout,12 -15 inches
+2024,5,Franklin,Malone,Malone Village Pond,May,90,Brown Trout,8 inches
+2024,5,Franklin,Franklin,Mountain Pond C-P57,Spring,730,Brown Trout,8 inches
+2024,5,Franklin,Franklin,North Branch Saranac River,April - fourth week,1410,Brook Trout,9 - 10 inches
+2024,5,Franklin,Santa Clara,Rat Pond,Spring,550,Brown Trout,8 inches
+2024,5,Franklin,Harrietstown,Rock Pond,Spring,590,Brown Trout,8 inches
+2024,5,Franklin,Waverly,Saint Regis Falls Fish and Game Club Pon,May - June,100,Rainbow Trout,8 inches
+2024,5,Franklin,Malone,Salmon River,April - fourth week,420,Brown Trout,12 -15 inches
+2024,5,Franklin,Malone,Salmon River,April - fourth week,3610,Brown Trout,9 - 10 inches
+2024,5,Franklin,Malone,Salmon River,April - second week,510,Brown Trout,12 -15 inches
+2024,5,Franklin,Malone,Salmon River,April - second week,4360,Brown Trout,9 - 10 inches
+2024,5,Franklin,Malone,Salmon River,April - second week,400,Rainbow Trout,12 -14 inches
+2024,5,Franklin,Malone,Salmon River,April - second week,3610,Rainbow Trout,9 - 10 inches
+2024,5,Franklin,Malone,Salmon River,May - fourth week,420,Brown Trout,12 -15 inches
+2024,5,Franklin,Malone,Salmon River,May - fourth week,3610,Brown Trout,9 - 10 inches
+2024,5,Franklin,Malone,Salmon River,May - second week,400,Rainbow Trout,12 -14 inches
+2024,5,Franklin,Malone,Salmon River,May - second week,3610,Rainbow Trout,9 - 10 inches
+2024,5,Franklin,Harrietstown,Saranac River,April - first week,70,Rainbow Trout,12 -14 inches
+2024,5,Franklin,Harrietstown,Saranac River,April - first week,640,Rainbow Trout,9 - 10 inches
+2024,5,Franklin,Dickinson,St. Regis River,May - first week,190,Brown Trout,12 -15 inches
+2024,5,Franklin,Dickinson,St. Regis River,May - first week,1610,Brown Trout,9 - 10 inches
+2024,5,Franklin,Malone,Trout River,April - fourth week,60,Brown Trout,12 -15 inches
+2024,5,Franklin,Malone,Trout River,April - fourth week,480,Brown Trout,9 - 10 inches
+2024,5,Franklin,Franklin,Two Bridge Brook,May - second week,100,Brown Trout,12 -15 inches
+2024,5,Franklin,Franklin,Two Bridge Brook,May - second week,880,Brown Trout,9 - 10 inches
+2024,5,Franklin,Santa Clara,Whey Pond,May,1360,Brown Trout,8 inches
+2024,5,Franklin,Santa Clara,Whey Pond,Spring,1160,Rainbow Trout,8 inches
+2024,5,Fulton,Caroga,Canada Lake,Spring,1870,Rainbow Trout,8 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,April - fourth week,70,Brown Trout,12 -15 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,April - fourth week,640,Brown Trout,9 - 10 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,April - second week,70,Brown Trout,12 -15 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,April - second week,640,Brown Trout,9 - 10 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,May - fourth week,70,Brown Trout,12 -15 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,May - fourth week,640,Brown Trout,9 - 10 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,May - second week,70,Brown Trout,12 -15 inches
+2024,5,Fulton,Johnstown(t),Cayadutta Creek,May - second week,640,Brown Trout,9 - 10 inches
+2024,5,Fulton,"Oppenheim, Stratford",East Canada Creek,May - first week,410,Brown Trout,12 -15 inches
+2024,5,Fulton,"Oppenheim, Stratford",East Canada Creek,May - first week,3520,Brown Trout,9 - 10 inches
+2024,5,Fulton,Caroga,East Caroga Lake,Spring,1260,Rainbow Trout,8 inches
+2024,5,Fulton,"Oppenheim, Stratford",Middle Sprite Creek,April - fourth week,40,Brown Trout,12 -15 inches
+2024,5,Fulton,"Oppenheim, Stratford",Middle Sprite Creek,April - fourth week,260,Brown Trout,9 - 10 inches
+2024,5,Fulton,Northampton,Northville Pond,April,1310,Rainbow Trout,8 inches
+2024,5,Fulton,Northampton,Northville Pond,May,1310,Rainbow Trout,8 inches
+2024,5,Fulton,Johnstown,Wolford's Pond,April,180,Brown Trout,8 inches
+2024,5,Fulton,Johnstown,Wolford's Pond,May,180,Brown Trout,8 inches
+2024,8,Genesee,Batavia,Dewitt Pond,March - April,520,Brown Trout,12 -15 inches
+2024,8,Genesee,Le Roy,Oatka Creek,April - first week,270,Brown Trout,12 -15 inches
+2024,8,Genesee,Le Roy,Oatka Creek,April - first week,2340,Brown Trout,9 - 10 inches
+2024,8,Genesee,Le Roy,Oatka Creek,April - fourth week,270,Brown Trout,12 -15 inches
+2024,8,Genesee,Le Roy,Oatka Creek,April - fourth week,2340,Brown Trout,9 - 10 inches
+2024,8,Genesee,Le Roy,Oatka Creek,March - third week,270,Brown Trout,12 -15 inches
+2024,8,Genesee,Le Roy,Oatka Creek,March - third week,2340,Brown Trout,9 - 10 inches
+2024,8,Genesee,Le Roy,Oatka Creek,May - second week,270,Brown Trout,12 -15 inches
+2024,8,Genesee,Le Roy,Oatka Creek,May - second week,2340,Brown Trout,9 - 10 inches
+2024,4,Greene,Greenville,Basic Creek,April - first week,40,Brown Trout,12 -15 inches
+2024,4,Greene,Greenville,Basic Creek,April - first week,310,Rainbow Trout,9 - 10 inches
+2024,4,Greene,Ashland,Batavia Kill,April - second week,410,Brown Trout,12 -15 inches
+2024,4,Greene,Ashland,Batavia Kill,April - second week,3520,Brown Trout,9 - 10 inches
+2024,4,Greene,Windham,Batavia Kill,April - second week,160,Brown Trout,12 -15 inches
+2024,4,Greene,Windham,Batavia Kill,April - second week,1310,Brown Trout,9 - 10 inches
+2024,4,Greene,Cairo,Catskill Creek,April - first week,180,Brown Trout,12 -15 inches
+2024,4,Greene,Cairo,Catskill Creek,April - first week,1600,Brown Trout,9 - 10 inches
+2024,4,Greene,Cairo,Catskill Creek,April - third week,180,Brown Trout,12 -15 inches
+2024,4,Greene,Cairo,Catskill Creek,April - third week,1600,Brown Trout,9 - 10 inches
+2024,4,Greene,Cairo,Catskill Creek,May - first week,180,Brown Trout,12 -15 inches
+2024,4,Greene,Cairo,Catskill Creek,May - first week,1600,Brown Trout,9 - 10 inches
+2024,4,Greene,Cairo,Catskill Creek,May - third week,180,Brown Trout,12 -15 inches
+2024,4,Greene,Cairo,Catskill Creek,May - third week,1600,Brown Trout,9 - 10 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,April - first week,20,Brown Trout,12 -15 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,April - first week,180,Brown Trout,9 - 10 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,April - third week,20,Brown Trout,12 -15 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,April - third week,180,Brown Trout,9 - 10 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,May - first week,20,Brown Trout,12 -15 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,May - first week,180,Brown Trout,9 - 10 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,May - third week,20,Brown Trout,12 -15 inches
+2024,4,Greene,Rensselaerville,Catskill Creek,May - third week,180,Brown Trout,9 - 10 inches
+2024,4,Greene,Jewett,Colgate Lake,April,640,Brown Trout,8 inches
+2024,4,Greene,Jewett,Colgate Lake,Mid April,100,Brown Trout,12 -15 inches
+2024,4,Greene,Jewett,East Kill,April - second week,130,Brown Trout,12 -15 inches
+2024,4,Greene,Jewett,East Kill,April - second week,1100,Brown Trout,9 - 10 inches
+2024,4,Greene,Athens,Greens Lake,Spring,210,Brown Trout,12 -15 inches
+2024,4,Greene,Jewett,Schoharie Creek,April - first week,80,Brown Trout,12 -15 inches
+2024,4,Greene,Jewett,Schoharie Creek,April - first week,650,Brown Trout,9 - 10 inches
+2024,4,Greene,"Jewett, Hunter",Schoharie Creek,April - first week,390,Brown Trout,12 -15 inches
+2024,4,Greene,"Jewett, Hunter",Schoharie Creek,April - first week,3380,Brown Trout,9 - 10 inches
+2024,4,Greene,"Jewett, Lexington",Schoharie Creek,April - first week,350,Brown Trout,12 -15 inches
+2024,4,Greene,"Jewett, Lexington",Schoharie Creek,April - first week,2970,Brown Trout,9 - 10 inches
+2024,4,Greene,Lexington,Schoharie Creek,April - first week,650,Brown Trout,12 -15 inches
+2024,4,Greene,Lexington,Schoharie Creek,April - first week,5560,Brown Trout,9 - 10 inches
+2024,4,Greene,Lexington,West Kill,April - first week,50,Brown Trout,12 -15 inches
+2024,4,Greene,Lexington,West Kill,April - first week,440,Brown Trout,9 - 10 inches
+2024,5,Hamilton,Indian Lake,Cedar River,April - fourth week,100,Brown Trout,12 -15 inches
+2024,5,Hamilton,Indian Lake,Cedar River,April - fourth week,840,Brown Trout,9 - 10 inches
+2024,5,Hamilton,Indian Lake,Cedar River Flow,Spring,910,Brown Trout,8 inches
+2024,5,Hamilton,Long Lake,Clear Pond,Spring,740,Rainbow Trout,8 inches
+2024,5,Hamilton,Inlet,Eighth Lake,Spring,2940,Rainbow Trout,8 inches
+2024,5,Hamilton,Wells,Elbow Creek Reservoir,June,220,Brook Trout,8 inches
+2024,5,Hamilton,Indian Lake,First Lake Essex Chain,Spring,1160,Rainbow Trout,8 inches
+2024,5,Hamilton,Lk Pleasant,Gilman Lake,Spring,840,Rainbow Trout,8 inches
+2024,5,Hamilton,"Indian Lake, Lk Pleasant",Indian Lake,Spring,7140,Brown Trout,8 inches
+2024,5,Hamilton,Indian Lake,Indian River,April - fourth week,260,Rainbow Trout,12 -14 inches
+2024,5,Hamilton,Indian Lake,Indian River,April - fourth week,2370,Rainbow Trout,9 - 10 inches
+2024,5,Hamilton,Lake Pleasant,Jessup River,May - second week,1210,Brook Trout,9 - 10 inches
+2024,5,Hamilton,Lake Pleasant,Jessup River,May - second week,40,Brown Trout,12 -15 inches
+2024,5,Hamilton,Lake Pleasant,Jessup River,May - second week,350,Brown Trout,9 - 10 inches
+2024,5,Hamilton,Long Lake,Lake Eaton,Spring,3260,Rainbow Trout,8 inches
+2024,5,Hamilton,Lk Pleasant,Lake Pleasant,Spring,1460,Brown Trout,8 inches
+2024,5,Hamilton,Wells,Mill Creek,May - first week,60,Brown Trout,12 -15 inches
+2024,5,Hamilton,Wells,Mill Creek,May - first week,490,Brown Trout,9 - 10 inches
+2024,5,Hamilton,"Inlet, Arietta",Moose River,May - third week,1130,Brook Trout,9 - 10 inches
+2024,5,Hamilton,Morehouse,Moose River,May - third week,940,Brook Trout,9 - 10 inches
+2024,5,Hamilton,Morehouse,Otter Brook,May - fourth week,790,Brook Trout,9 - 10 inches
+2024,5,Hamilton,"Long Lake, Arietta",Raquette River,May - second week,210,Brown Trout,12 -15 inches
+2024,5,Hamilton,"Long Lake, Arietta",Raquette River,May - second week,1800,Brown Trout,9 - 10 inches
+2024,5,Hamilton,Lake Pleasant,Sacandaga Lake,Spring,1360,Brown Trout,8 inches
+2024,5,Hamilton,Wells,Sacandaga River,May - second week,450,Brown Trout,12 -15 inches
+2024,5,Hamilton,Wells,Sacandaga River,May - second week,3760,Brown Trout,9 - 10 inches
+2024,5,Hamilton,Inlet,Seventh Lake,Spring,3990,Rainbow Trout,8 inches
+2024,5,Hamilton,Inlet,Sixth Lake,Spring,1360,Rainbow Trout,8 inches
+2024,5,Hamilton,"Hoffmeister,Morehouseville",South Branch West Canada Creek,April - fourth week,1480,Brook Trout,9 - 10 inches
+2024,5,Hamilton,Morehouse,South Branch West Canada Creek,April - fourth week,1030,Brook Trout,9 - 10 inches
+2024,5,Hamilton,Indian Lake,Sprague Pond,Spring,820,Brown Trout,8 inches
+2024,5,Hamilton,Indian Lake,Stephens Pond,Fall,1090,Brown Trout,8 inches
+2024,5,Hamilton,Indian Lake,Unknown Pond,Spring,680,Brown Trout,8 inches
+2024,5,Hamilton,Inlet,Upper Mitchell Pond,Spring,180,Brown Trout,8 inches
+2024,5,Hamilton,Lake Pleasant,Wakely Pond,Spring,180,Brown Trout,8 inches
+2024,5,Hamilton,Wells,West Branch Sacandaga River,May - second week,120,Rainbow Trout,12 -14 inches
+2024,5,Hamilton,Wells,West Branch Sacandaga River,May - second week,1060,Rainbow Trout,9 - 10 inches
+2024,5,Hamilton,Benson,Woods Lake,Spring,630,Rainbow Trout,8 inches
+2024,6,Herkimer,Manheim,Beardsley Lake,Spring,3660,Rainbow Trout,8 inches
+2024,6,Herkimer,Webb,Fourth Lake,Spring,9660,Rainbow Trout,8 inches
+2024,6,Herkimer,webb,Moss Lake,May,550,Brook Trout,8 inches
+2024,6,Herkimer,Webb,Nicks Lake,May,1820,Brown Trout,8 inches
+2024,6,Herkimer,Webb,Old Forge Pond,April,740,Rainbow Trout,8 inches
+2024,6,Herkimer,Stark,Otsquago Creek,April - first week,630,Rainbow Trout,9 - 10 inches
+2024,6,Herkimer,Russia,Prospect Rs,Spring,3090,Brown Trout,8 inches
+2024,6,Herkimer,Webb,Quiver Pond,April - third week,330,Brook Trout,8 inches
+2024,6,Herkimer,Salisbury,Spruce Creek,April - third week,270,Brown Trout,12 -15 inches
+2024,6,Herkimer,Webb,Sunday Creek,May - second week,670,Brook Trout,9 - 10 inches
+2024,6,Herkimer,Webb,Third Lake,May,1890,Rainbow Trout,8 inches
+2024,6,Herkimer,Webb,Twitchell Lake,May,2200,Brook Trout,8 inches
+2024,6,Herkimer,"Columbia, Winfield",Unadilla River,April - first week,30,Brown Trout,12 -15 inches
+2024,6,Herkimer,"Columbia, Winfield",Unadilla River,April - first week,220,Brown Trout,9 - 10 inches
+2024,6,Herkimer,"Fairfield, Herkimer",West Canada Creek,April - third week,420,Brown Trout,12 -15 inches
+2024,6,Herkimer,"Fairfield, Herkimer",West Canada Creek,April - third week,3640,Brown Trout,9 - 10 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,April - fourth week,380,Brown Trout,12 -15 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,April - fourth week,3220,Brown Trout,9 - 10 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,April - second week,380,Brown Trout,12 -15 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,April - second week,3220,Brown Trout,9 - 10 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,May - fourth week,380,Brown Trout,12 -15 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,May - fourth week,3220,Brown Trout,9 - 10 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,May - second week,380,Brown Trout,12 -15 inches
+2024,6,Herkimer,"Fairfield, Newport",West Canada Creek,May - second week,3220,Brown Trout,9 - 10 inches
+2024,6,Herkimer,Ohio,West Canada Creek,April - fourth week,4320,Brook Trout,9 - 10 inches
+2024,6,Jefferson,"Wilna, Philadelphia",Black Creek,May - first week,460,Brown Trout,12 -15 inches
+2024,6,Jefferson,"Wilna, Philadelphia",Black Creek,May - first week,3940,Brown Trout,9 - 10 inches
+2024,6,Jefferson,Wilna,Black Creek West Branch,May - first week,480,Brook Trout,9 - 10 inches
+2024,6,Jefferson,Watertown,Black River,May - first week,410,Brown Trout,12 -15 inches
+2024,6,Jefferson,Watertown,Black River,May - first week,3680,Brown Trout,9 - 10 inches
+2024,6,Jefferson,Rutland,Felts Mills Creek,May - first week,350,Brook Trout,9 - 10 inches
+2024,6,Jefferson,Champion,Felts Mills Creek,May - first week,310,Brook Trout,9 - 10 inches
+2024,6,Jefferson,Ellisburg,Lake Ontario,Mid May,10700,Brown Trout,8 inches
+2024,6,Jefferson,Henderson,Lake Ontario,Mid May,73620,Brown Trout,8 inches
+2024,6,Jefferson,Theresa,Millsite Lake,Spring,520,Rainbow Trout,8 inches
+2024,6,Jefferson,Adams,North Branch Sandy Creek,May - first week,30,Brown Trout,12 -15 inches
+2024,6,Jefferson,Adams,North Branch Sandy Creek,May - first week,290,Brown Trout,9 - 10 inches
+2024,6,Jefferson,Le Ray,Remington Pond,May - first week,1100,Brook Trout,8 inches
+2024,6,Jefferson,Adams,Sandy Creek,May - first week,130,Brown Trout,12 -15 inches
+2024,6,Jefferson,Adams,Sandy Creek,May - first week,1140,Brown Trout,9 - 10 inches
+2024,6,Jefferson,Worth,South Sandy Creek,May - first week,360,Brook Trout,9 - 10 inches
+2024,6,Jefferson,Champion,Townsend Creek,May - first week,320,Brook Trout,9 - 10 inches
+2024,6,Lewis,High Market,Alder Creek,May - third week,130,Brown Trout,12 -15 inches
+2024,6,Lewis,High Market,Alder Creek,May - third week,1130,Brown Trout,9 - 10 inches
+2024,6,Lewis,New Bremen,Black Creek,May - second week,850,Brook Trout,9 - 10 inches
+2024,6,Lewis,"Leyden, Lyonsdale",Black River,May - second week,920,Brown Trout,12 -15 inches
+2024,6,Lewis,"Leyden, Lyonsdale",Black River,May - second week,7900,Brown Trout,9 - 10 inches
+2024,6,Lewis,Diana,Bonaparte Lake,Spring,3090,Brown Trout,8 inches
+2024,6,Lewis,Croghan,Deer Pond (AKA Little Deer Pd),Early May,280,Brook Trout,8 inches
+2024,6,Lewis,Montague,Deer River West Branch,May - second week,320,Brook Trout,9 - 10 inches
+2024,6,Lewis,Lewis,Fish Creek East Branch,May - first week,230,Brown Trout,12 -15 inches
+2024,6,Lewis,Lewis,Fish Creek East Branch,May - first week,2020,Brown Trout,9 - 10 inches
+2024,6,Lewis,Lewis,Fish Creek East Branch,May - second week,250,Brown Trout,12 -15 inches
+2024,6,Lewis,Lewis,Fish Creek East Branch,May - second week,2130,Brown Trout,9 - 10 inches
+2024,6,Lewis,Lowville,Forestry Pond,May - June,260,Rainbow Trout,8 inches
+2024,6,Lewis,Croghan,Indian River,May - first week,420,Brook Trout,9 - 10 inches
+2024,6,Lewis,Croghan,Long Pond,May,1650,Brook Trout,8 inches
+2024,6,Lewis,Lyonsdale,Moose River,May - second week,1530,Brook Trout,9 - 10 inches
+2024,6,Lewis,Croghan,Mud Pond,Early May,1100,Brook Trout,8 inches
+2024,6,Lewis,Croghan,Oswegatchie River West Branch,May - second week,580,Brook Trout,9 - 10 inches
+2024,6,Lewis,Diana,Oswegatchie River West Branch,May - second week,1270,Brook Trout,9 - 10 inches
+2024,6,Lewis,Greig,Otter Creek,May - third week,170,Brown Trout,12 -15 inches
+2024,6,Lewis,Greig,Otter Creek,May - third week,1480,Brown Trout,9 - 10 inches
+2024,6,Lewis,Watson,Payne Lake,Early May,550,Brook Trout,8 inches
+2024,6,Lewis,Lewis,Point Rock Creek,April - fourth week,60,Brown Trout,12 -15 inches
+2024,6,Lewis,Lewis,Point Rock Creek,April - fourth week,500,Brown Trout,9 - 10 inches
+2024,6,Lewis,Diana,Quarry Pond,May,210,Rainbow Trout,8 inches
+2024,6,Lewis,Croghan,Rock Pond,Early May,330,Brook Trout,8 inches
+2024,6,Lewis,Croghan,Trout Lake,Early May,660,Brook Trout,8 inches
+2024,6,Lewis,Martinsburg,Whetstone Creek,May - first week,300,Brown Trout,9 - 10 inches
+2024,8,Livingston,Springwater,Springwater Creek,May,4000,Rainbow Trout,8 inches
+2024,8,Livingston,Ossian,Sugar Creek,April - first week,1290,Brook Trout,9 - 10 inches
+2024,7,Madison,Brookfield,Beaver Creek,April - second week,120,Brown Trout,12 -15 inches
+2024,7,Madison,Brookfield,Beaver Creek,April - second week,1060,Brown Trout,9 - 10 inches
+2024,7,Madison,Eaton,Chenango River,April - first week,300,Brown Trout,12 -15 inches
+2024,7,Madison,Eaton,Chenango River,April - first week,2540,Brown Trout,9 - 10 inches
+2024,7,Madison,Cazenovia,Chittenango Creek,April - second week,180,Brown Trout,12 -15 inches
+2024,7,Madison,Cazenovia,Chittenango Creek,April - second week,1520,Brown Trout,9 - 10 inches
+2024,7,Madison,Fenner,Chittenango Creek,April - first week,250,Brown Trout,12 -15 inches
+2024,7,Madison,Fenner,Chittenango Creek,April - first week,2010,Brown Trout,9 - 10 inches
+2024,7,Madison,Fenner,Chittenango Creek,April - third week,250,Brown Trout,12 -15 inches
+2024,7,Madison,Fenner,Chittenango Creek,April - third week,2010,Brown Trout,9 - 10 inches
+2024,7,Madison,Fenner,Chittenango Creek,May - first week,250,Brown Trout,12 -15 inches
+2024,7,Madison,Fenner,Chittenango Creek,May - first week,2010,Brown Trout,9 - 10 inches
+2024,7,Madison,Fenner,Chittenango Creek,May - third week,250,Brown Trout,12 -15 inches
+2024,7,Madison,Fenner,Chittenango Creek,May - third week,2010,Brown Trout,9 - 10 inches
+2024,7,Madison,Sullivan,Chittenango Creek,April - first week,90,Brown Trout,12 -15 inches
+2024,7,Madison,Sullivan,Chittenango Creek,April - first week,690,Brown Trout,9 - 10 inches
+2024,7,Madison,Sullivan,Chittenango Creek,April - third week,90,Brown Trout,12 -15 inches
+2024,7,Madison,Sullivan,Chittenango Creek,April - third week,690,Brown Trout,9 - 10 inches
+2024,7,Madison,Sullivan,Chittenango Creek,May - first week,90,Brown Trout,12 -15 inches
+2024,7,Madison,Sullivan,Chittenango Creek,May - first week,690,Brown Trout,9 - 10 inches
+2024,7,Madison,Sullivan,Chittenango Creek,May - third week,90,Brown Trout,12 -15 inches
+2024,7,Madison,Sullivan,Chittenango Creek,May - third week,690,Brown Trout,9 - 10 inches
+2024,7,Madison,Oneida,Cowaselon Creek,April - second week,100,Brown Trout,12 -15 inches
+2024,7,Madison,Oneida,Cowaselon Creek,April - second week,830,Rainbow Trout,9 - 10 inches
+2024,7,Madison,Eaton,Eaton Reservoir,Spring,1820,Brown Trout,8 inches
+2024,7,Madison,Lebanon,Lebanon Reservoir,Spring,2100,Rainbow Trout,8 inches
+2024,7,Madison,Cazenovia,Limestone Creek,April - second week,60,Brown Trout,12 -15 inches
+2024,7,Madison,Cazenovia,Limestone Creek,April - second week,500,Brown Trout,9 - 10 inches
+2024,7,Madison,Smithfield,Oneida Creek,April - second week,100,Brown Trout,12 -15 inches
+2024,7,Madison,Smithfield,Oneida Creek,April - second week,860,Brown Trout,9 - 10 inches
+2024,7,Madison,Hamilton,Payne Brook,April - second week,40,Brown Trout,12 -15 inches
+2024,7,Madison,Hamilton,Payne Brook,April - second week,330,Brown Trout,9 - 10 inches
+2024,7,Madison,Hamilton,Sangerfield River,April - second week,240,Brown Trout,12 -15 inches
+2024,7,Madison,Hamilton,Sangerfield River,April - second week,2060,Brown Trout,9 - 10 inches
+2024,7,Madison,Eaton,Upper Lelands Pond,May,1550,Brown Trout,8 inches
+2024,8,Monroe,"Brighton, Penfield, Perinton",Irondequoit Creek,May - June,5700,Brown Trout,9 - 10 inches
+2024,8,Monroe,"Brighton, Penfield, Perinton",Irondequoit Creek,Mid April,1310,Brown Trout,12 -15 inches
+2024,8,Monroe,"Brighton, Penfield, Perinton",Irondequoit Creek,Mid April,2900,Brown Trout,9 - 10 inches
+2024,8,Monroe,Pittsford,Irondequoit Creek,May - June,800,Brown Trout,9 - 10 inches
+2024,8,Monroe,Pittsford,Irondequoit Creek,Mid April,370,Brown Trout,12 -15 inches
+2024,8,Monroe,Pittsford,Irondequoit Creek,Mid April,800,Brown Trout,9 - 10 inches
+2024,8,Monroe,Greece,Lake Ontario,May,49860,Brown Trout,8 inches
+2024,8,Monroe,Hamlin,Lake Ontario,May,37450,Brown Trout,8 inches
+2024,8,Monroe,Webster,Lake Ontario,May,49750,Brown Trout,8 inches
+2024,8,Monroe,Wheatland,Oatka Creek,April - third week,280,Brown Trout,12 -15 inches
+2024,8,Monroe,Wheatland,Oatka Creek,April - third week,2420,Brown Trout,9 - 10 inches
+2024,4,Montgomery,Canajoharie,Canajoharie Creek,April - second week,60,Brown Trout,12 -15 inches
+2024,4,Montgomery,Canajoharie,Canajoharie Creek,April - second week,540,Brown Trout,9 - 10 inches
+2024,1,Nassau,Oyster Bay,Massapequa Reservoir,April,320,Brown Trout,12 -15 inches
+2024,1,Nassau,Oyster Bay,Massapequa Reservoir,April,450,Brown Trout,8 inches
+2024,1,Nassau,Oyster Bay,Massapequa Reservoir,April,940,Rainbow Trout,8 inches
+2024,1,Nassau,Oyster Bay,Massapequa Reservoir,March,320,Brown Trout,12 -15 inches
+2024,1,Nassau,Oyster Bay,Massapequa Reservoir,March,520,Rainbow Trout,8 inches
+2024,1,Nassau,Oyster Bay,Oyster Bay Mill Pond,March,100,Brown Trout,12 -15 inches
+2024,1,Nassau,Oyster Bay,Oyster Bay Mill Pond,March,520,Rainbow Trout,8 inches
+2024,1,Nassau,Hempstead,Upper Twin Pond,April,100,Brown Trout,12 -15 inches
+2024,1,Nassau,Hempstead,Upper Twin Pond,April,630,Rainbow Trout,8 inches
+2024,1,Nassau,Hempstead,Upper Twin Pond,March,420,Brown Trout,12 -15 inches
+2024,1,Nassau,Hempstead,Upper Twin Pond,March,160,Rainbow Trout,8 inches
+2024,9,Niagara,Niagara Falls,Hyde Park Lake,Early April,210,Brown Trout,12 -15 inches
+2024,9,Niagara,Niagara Falls,Hyde Park Lake,Early April,1820,Brown Trout,8 inches
+2024,9,Niagara,Newfane,Lake Ontario,May,23000,Brown Trout,8 inches
+2024,9,Niagara,Wilson,Lake Ontario,May,23000,Brown Trout,8 inches
+2024,9,Niagara,Porter,Lower Niagara River,May,37450,Brown Trout,8 inches
+2024,9,Niagara,Wheatfield,Oppenheim Park Pond,Early April,100,Brown Trout,12 -15 inches
+2024,9,Niagara,Wheatfield,Oppenheim Park Pond,Early April,210,Rainbow Trout,8 inches
+2024,6,Oneida,"Boonville, Forestport",Black River,May - second week,1080,Brown Trout,12 -15 inches
+2024,6,Oneida,"Boonville, Forestport",Black River,May - second week,9290,Brown Trout,9 - 10 inches
+2024,6,Oneida,Forestport,Black River,May - second week,1490,Brook Trout,9 - 10 inches
+2024,6,Oneida,Forestport,Black River,May - second week,140,Brown Trout,12 -15 inches
+2024,6,Oneida,Forestport,Black River,May - second week,1200,Brown Trout,9 - 10 inches
+2024,6,Oneida,Trenton,Cincinnati Creek,April - third week,90,Brown Trout,12 -15 inches
+2024,6,Oneida,Trenton,Cincinnati Creek,April - third week,730,Brown Trout,9 - 10 inches
+2024,6,Oneida,Annsville,Fish Creek East Branch,May - second week,420,Brown Trout,12 -15 inches
+2024,6,Oneida,Annsville,Fish Creek East Branch,May - second week,3560,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Annsville, Camden",Fish Creek West Branch,April - second week,510,Brown Trout,12 -15 inches
+2024,6,Oneida,"Annsville, Camden",Fish Creek West Branch,April - second week,4360,Brown Trout,9 - 10 inches
+2024,6,Oneida,Camden,Fish Creek West Branch,April - third week,80,Brown Trout,12 -15 inches
+2024,6,Oneida,Camden,Fish Creek West Branch,April - third week,710,Brown Trout,9 - 10 inches
+2024,6,Oneida,Camden,Fish Creek West Branch,May - first week,190,Brown Trout,12 -15 inches
+2024,6,Oneida,Camden,Fish Creek West Branch,May - first week,1600,Brown Trout,9 - 10 inches
+2024,6,Oneida,Trenton,Hinckley Reservoir,Early May,5250,Rainbow Trout,8 inches
+2024,6,Oneida,"Western, Ava",Lansing Kill,April - third week,100,Brown Trout,12 -15 inches
+2024,6,Oneida,"Western, Ava",Lansing Kill,April - third week,860,Brown Trout,9 - 10 inches
+2024,6,Oneida,Camden,Mad River,April - fourth week,230,Brown Trout,12 -15 inches
+2024,6,Oneida,Camden,Mad River,April - fourth week,1940,Brown Trout,9 - 10 inches
+2024,6,Oneida,Rome,Mohawk River,April - first week,360,Brown Trout,12 -15 inches
+2024,6,Oneida,Rome,Mohawk River,April - first week,2910,Brown Trout,9 - 10 inches
+2024,6,Oneida,Rome,Mohawk River,April - third week,360,Brown Trout,12 -15 inches
+2024,6,Oneida,Rome,Mohawk River,April - third week,2910,Brown Trout,9 - 10 inches
+2024,6,Oneida,Rome,Mohawk River,May - first week,360,Brown Trout,12 -15 inches
+2024,6,Oneida,Rome,Mohawk River,May - first week,2910,Brown Trout,9 - 10 inches
+2024,6,Oneida,Rome,Mohawk River,May - third week,360,Brown Trout,12 -15 inches
+2024,6,Oneida,Rome,Mohawk River,May - third week,2910,Brown Trout,9 - 10 inches
+2024,6,Oneida,Western,Mohawk River,May - first week,320,Brown Trout,12 -15 inches
+2024,6,Oneida,Western,Mohawk River,May - first week,2840,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Marcy, Trenton",Ninemile Creek,April - first week,5880,Rainbow Trout,9 - 10 inches
+2024,6,Oneida,Vernon,Oneida Creek,April - second week,370,Brown Trout,12 -15 inches
+2024,6,Oneida,Vernon,Oneida Creek,April - second week,3200,Brown Trout,9 - 10 inches
+2024,6,Oneida,Kirkland,Oriskany Creek,April - second week,190,Brown Trout,12 -15 inches
+2024,6,Oneida,Kirkland,Oriskany Creek,April - second week,1600,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Kirkland, Marshall",Oriskany Creek,April - third week,280,Brown Trout,12 -15 inches
+2024,6,Oneida,"Kirkland, Marshall",Oriskany Creek,April - third week,2420,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Ava, Lee",Point Rock Creek,May - first week,100,Brown Trout,12 -15 inches
+2024,6,Oneida,"Ava, Lee",Point Rock Creek,May - first week,860,Brown Trout,9 - 10 inches
+2024,6,Oneida,New Hartford,Sauquoit Creek,April - second week,300,Brown Trout,12 -15 inches
+2024,6,Oneida,New Hartford,Sauquoit Creek,April - second week,2590,Brown Trout,9 - 10 inches
+2024,6,Oneida,Vernon,Sconondoa Creek,April - first week,70,Brown Trout,12 -15 inches
+2024,6,Oneida,Vernon,Sconondoa Creek,April - first week,560,Brown Trout,9 - 10 inches
+2024,6,Oneida,Trenton,West Canada Creek,April - fourth week,100,Brown Trout,12 -15 inches
+2024,6,Oneida,Trenton,West Canada Creek,April - fourth week,880,Brown Trout,9 - 10 inches
+2024,6,Oneida,Trenton,West Canada Creek,April - second week,100,Brown Trout,12 -15 inches
+2024,6,Oneida,Trenton,West Canada Creek,April - second week,880,Brown Trout,9 - 10 inches
+2024,6,Oneida,Trenton,West Canada Creek,May - fourth week,100,Brown Trout,12 -15 inches
+2024,6,Oneida,Trenton,West Canada Creek,May - fourth week,880,Brown Trout,9 - 10 inches
+2024,6,Oneida,Trenton,West Canada Creek,May - second week,100,Brown Trout,12 -15 inches
+2024,6,Oneida,Trenton,West Canada Creek,May - second week,880,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,April - fourth week,230,Brown Trout,12 -15 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,April - fourth week,1960,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,April - second week,230,Brown Trout,12 -15 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,April - second week,1960,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,May - fourth week,230,Brown Trout,12 -15 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,May - fourth week,1960,Brown Trout,9 - 10 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,May - second week,230,Brown Trout,12 -15 inches
+2024,6,Oneida,"Trenton, Deerfield",West Canada Creek,May - second week,1960,Brown Trout,9 - 10 inches
+2024,7,Onondaga,Spafford,Skaneateles Lake,Mid May,15000,Rainbow Trout,8 inches
+2024,8,Ontario,Canadice,Canadice Lake,Spring,4550,Brown Trout,8 inches
+2024,8,Ontario,Canandaigua (T),Canandaigua Lake,Spring,7280,Brown Trout,8 inches
+2024,8,Ontario,Phelps / Manchester,Canandaigua Outlet,March - fourth week,450,Brown Trout,12 -15 inches
+2024,8,Ontario,Phelps / Manchester,Canandaigua Outlet,March - fourth week,3710,Brown Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Askoti Lake,April,100,Brown Trout,12 -15 inches
+2024,3,Orange,Tuxedo,Askoti Lake,April,730,Brown Trout,8 inches
+2024,3,Orange,Highlands,Bull Pond,March - April,1600,Brook Trout,8 inches
+2024,3,Orange,Highlands,Bull Pond,March - April,730,Brown Trout,8 inches
+2024,3,Orange,Highlands,Highland Brook,March - April,100,Brown Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Island Pond,April - third week,1430,Brook Trout,8 inches
+2024,3,Orange,Highlands,Lusk Reservoir,March - April,410,Brown Trout,8 inches
+2024,3,Orange,Cornwall,Moodna Creek,March - fourth week,420,Rainbow Trout,12 -14 inches
+2024,3,Orange,Cornwall,Moodna Creek,March - fourth week,3740,Rainbow Trout,9 - 10 inches
+2024,3,Orange,Deerpark,Neversink River,April - fourth week,180,Brown Trout,12 -15 inches
+2024,3,Orange,Deerpark,Neversink River,April - fourth week,1500,Brown Trout,9 - 10 inches
+2024,3,Orange,Deerpark,Neversink River,April - second week,180,Brown Trout,12 -15 inches
+2024,3,Orange,Deerpark,Neversink River,April - second week,1500,Brown Trout,9 - 10 inches
+2024,3,Orange,Deerpark,Neversink River,March - fourth week,180,Brown Trout,12 -15 inches
+2024,3,Orange,Deerpark,Neversink River,March - fourth week,1500,Brown Trout,9 - 10 inches
+2024,3,Orange,Deerpark,Neversink River,May - second week,180,Brown Trout,12 -15 inches
+2024,3,Orange,Deerpark,Neversink River,May - second week,1500,Brown Trout,9 - 10 inches
+2024,3,Orange,Highlands,Popolopen Brook,March - April,300,Brown Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Ramapo River,April - fourth week,140,Rainbow Trout,12 -14 inches
+2024,3,Orange,Tuxedo,Ramapo River,April - fourth week,1280,Rainbow Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Ramapo River,April - second week,150,Brown Trout,12 -15 inches
+2024,3,Orange,Tuxedo,Ramapo River,April - second week,1280,Brown Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Ramapo River,March - fourth week,140,Rainbow Trout,12 -14 inches
+2024,3,Orange,Tuxedo,Ramapo River,March - fourth week,1280,Rainbow Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Ramapo River,May - second week,150,Brown Trout,12 -15 inches
+2024,3,Orange,Tuxedo,Ramapo River,May - second week,1280,Brown Trout,9 - 10 inches
+2024,3,Orange,Highlands,Round Pond,March - April,1640,Brown Trout,8 inches
+2024,3,Orange,Monroe,Round Pond,April - first week,910,Brown Trout,8 inches
+2024,3,Orange,Greenville,Rutgers Creek,March - fourth week,170,Rainbow Trout,12 -14 inches
+2024,3,Orange,Greenville,Rutgers Creek,March - fourth week,1550,Rainbow Trout,9 - 10 inches
+2024,3,Orange,Crawford,Shawangunk Kill,March - fourth week,310,Rainbow Trout,12 -14 inches
+2024,3,Orange,Crawford,Shawangunk Kill,March - fourth week,2820,Rainbow Trout,9 - 10 inches
+2024,3,Orange,Deerpark,Shingle Kill,March - fourth week,50,Brown Trout,12 -15 inches
+2024,3,Orange,Deerpark,Shingle Kill,March - fourth week,430,Brown Trout,9 - 10 inches
+2024,3,Orange,Tuxedo,Skanatati Lake,April - third week,450,Brown Trout,8 inches
+2024,3,Orange,Monroe,Walton Lake,April,370,Brown Trout,12 -15 inches
+2024,3,Orange,Monroe,Walton Lake,April - first week,3640,Brown Trout,8 inches
+2024,3,Orange,Warwick,Wawayanda Creek,April - first week,40,Brown Trout,12 -15 inches
+2024,3,Orange,Warwick,Wawayanda Creek,April - first week,320,Brown Trout,9 - 10 inches
+2024,3,Orange,Cornwall,Woodbury Creek,April - second week,50,Brown Trout,12 -15 inches
+2024,3,Orange,Cornwall,Woodbury Creek,April - second week,430,Brown Trout,9 - 10 inches
+2024,8,Orleans,Carlton,Lake Ontario,May,37450,Brown Trout,8 inches
+2024,7,Oswego,Mexico,Lake Ontario,Mid May,49110,Brown Trout,8 inches
+2024,7,Oswego,Oswego (C),Lake Ontario,Mid May,37450,Brown Trout,8 inches
+2024,7,Oswego,Orwell,Lighthouse Hill Reservoir,May,4520,Rainbow Trout,8 inches
+2024,7,Oswego,Redfield,North Branch Salmon River,May - first week,290,Brown Trout,12 -15 inches
+2024,7,Oswego,Redfield,North Branch Salmon River,May - first week,2550,Brown Trout,9 - 10 inches
+2024,7,Oswego,Redfield,Redfield Sportsmen's Pond,May,220,Brook Trout,8 inches
+2024,7,Oswego,Albion,Reese's Pond,May,110,Brook Trout,8 inches
+2024,7,Oswego,Redfield,Salmon River,May - first week,100,Brown Trout,12 -15 inches
+2024,7,Oswego,Redfield,Salmon River,May - first week,900,Brown Trout,9 - 10 inches
+2024,7,Oswego,Williamstown,West Branch Fish Creek,May - first week,110,Brown Trout,12 -15 inches
+2024,7,Oswego,Williamstown,West Branch Fish Creek,May - first week,940,Brown Trout,9 - 10 inches
+2024,4,Otsego,Hartwick,Arnold Lake,June,360,Brown Trout,8 inches
+2024,4,Otsego,Hartwick,Arnold Lake,June,420,Rainbow Trout,8 inches
+2024,4,Otsego,Burlington,Basswood Pond,Early May,130,Brown Trout,12 -15 inches
+2024,4,Otsego,Burlington,Basswood Pond,Early May,270,Brown Trout,8 inches
+2024,4,Otsego,Burlington,Basswood Pond,Early May,100,Rainbow Trout,8 inches
+2024,4,Otsego,New Lisbon,Gilbert Lake,Spring,100,Brown Trout,12 -15 inches
+2024,4,Otsego,New Lisbon,Gilbert Lake,Spring,630,Rainbow Trout,8 inches
+2024,4,Otsego,Maryland,Schenevus Creek,April - second week,320,Brown Trout,12 -15 inches
+2024,4,Otsego,Maryland,Schenevus Creek,April - second week,2740,Brown Trout,9 - 10 inches
+2024,4,Otsego,Burlington,Wharton Creek,April - second week,230,Brown Trout,12 -15 inches
+2024,4,Otsego,Burlington,Wharton Creek,April - second week,2000,Brown Trout,9 - 10 inches
+2024,4,Otsego,Edmestom,Wharton Creek,April - second week,320,Brown Trout,12 -15 inches
+2024,4,Otsego,Edmestom,Wharton Creek,April - second week,2770,Brown Trout,9 - 10 inches
+2024,3,Putnam,Southeast,Bog Brook Res,April,910,Brown Trout,8 inches
+2024,3,Putnam,"Carmel, Southeast",Croton Falls Res,May,2270,Brown Trout,8 inches
+2024,3,Putnam,Southeast,Croton River East Branch,April - fourth week,180,Rainbow Trout,12 -14 inches
+2024,3,Putnam,Southeast,Croton River East Branch,April - fourth week,1600,Rainbow Trout,9 - 10 inches
+2024,3,Putnam,Southeast,Croton River East Branch,April - second week,180,Brown Trout,12 -15 inches
+2024,3,Putnam,Southeast,Croton River East Branch,April - second week,1600,Brown Trout,9 - 10 inches
+2024,3,Putnam,Southeast,Croton River East Branch,March - fourth week,180,Rainbow Trout,12 -14 inches
+2024,3,Putnam,Southeast,Croton River East Branch,March - fourth week,1600,Rainbow Trout,9 - 10 inches
+2024,3,Putnam,Southeast,Croton River East Branch,May - second week,180,Brown Trout,12 -15 inches
+2024,3,Putnam,Southeast,Croton River East Branch,May - second week,1600,Brown Trout,9 - 10 inches
+2024,3,Putnam,Carmel,Croton River West Branch,April - fourth week,30,Brown Trout,12 -15 inches
+2024,3,Putnam,Carmel,Croton River West Branch,April - fourth week,220,Brown Trout,9 - 10 inches
+2024,3,Putnam,Carmel,Croton River West Branch,April - second week,30,Brown Trout,12 -15 inches
+2024,3,Putnam,Carmel,Croton River West Branch,April - second week,220,Brown Trout,9 - 10 inches
+2024,3,Putnam,Carmel,Croton River West Branch,March - fourth week,30,Brown Trout,12 -15 inches
+2024,3,Putnam,Carmel,Croton River West Branch,March - fourth week,220,Brown Trout,9 - 10 inches
+2024,3,Putnam,Carmel,Croton River West Branch,May - second week,30,Brown Trout,12 -15 inches
+2024,3,Putnam,Carmel,Croton River West Branch,May - second week,220,Brown Trout,9 - 10 inches
+2024,3,Putnam,Kent,Croton River West Branch,March - fourth week,80,Brown Trout,12 -15 inches
+2024,3,Putnam,Kent,Croton River West Branch,March - fourth week,680,Brown Trout,9 - 10 inches
+2024,3,Putnam,Southeast,Diverting Reservoir,April,910,Brown Trout,8 inches
+2024,3,Putnam,Carmel,Lake Gilead,April,2730,Brown Trout,8 inches
+2024,3,Putnam,Carmel,Lake Gleneida,April,4550,Brown Trout,8 inches
+2024,3,Putnam,Putnam Valley,Peekskill Hollow Brook,March - fourth week,40,Brown Trout,12 -15 inches
+2024,3,Putnam,Putnam Valley,Peekskill Hollow Brook,March - fourth week,300,Brown Trout,9 - 10 inches
+2024,3,Putnam,Kent,Pelton Pond,March,320,Rainbow Trout,8 inches
+2024,3,Putnam,Kent,Stillwater Pond,April,910,Brown Trout,8 inches
+2024,3,Putnam,Kent,Stillwater Pond,March,100,Brown Trout,12 -15 inches
+2024,3,Putnam,Kent,Stillwater Pond,March - third week,1050,Rainbow Trout,8 inches
+2024,3,Putnam,Carmel,West Branch Reservoir,April,4550,Brown Trout,8 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,April - first week,240,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,April - first week,2040,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,April - third week,240,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,April - third week,2040,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,March - third week,240,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,March - third week,2040,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,May - first week,240,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Nassau,Kinderhook Creek,May - first week,2040,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,April - first week,50,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,April - first week,440,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,April - third week,50,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,April - third week,440,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,March - third week,50,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,March - third week,440,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,May - first week,50,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Stephentown,Kinderhook Creek,May - first week,440,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Grafton,Long Pond,June,1820,Brown Trout,8 inches
+2024,4,Rensselaer,Brunswick,Poesten Kill,April - second week,70,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Brunswick,Poesten Kill,April - second week,580,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Poestenkill,Poesten Kill,April - second week,130,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Poestenkill,Poesten Kill,April - second week,1040,Brown Trout,9 - 10 inches
+2024,4,Rensselaer,Grafton,Second Pond,June,450,Brown Trout,8 inches
+2024,4,Rensselaer,Grafton,Shaver Pond,Spring,630,Rainbow Trout,8 inches
+2024,4,Rensselaer,East Greenbush,Town Park Pond,April - May,520,Rainbow Trout,8 inches
+2024,4,Rensselaer,Hoosick,Walloomsac River,March - third week,210,Brown Trout,12 -15 inches
+2024,4,Rensselaer,Hoosick,Walloomsac River,March - third week,1810,Rainbow Trout,9 - 10 inches
+2024,3,Rockland,Stony Point,Hessian Lake,April - third week,730,Brown Trout,8 inches
+2024,3,Rockland,Stony Point,Hessian Lake,March,100,Brown Trout,12 -15 inches
+2024,3,Rockland,Ramapo,Mahwah River,March - fourth week,60,Brown Trout,12 -15 inches
+2024,3,Rockland,Ramapo,Mahwah River,March - fourth week,530,Brown Trout,9 - 10 inches
+2024,3,Rockland,Haverstraw,Minisceongo Creek,March - fourth week,20,Brown Trout,12 -15 inches
+2024,3,Rockland,Haverstraw,Minisceongo Creek,March - fourth week,170,Brown Trout,9 - 10 inches
+2024,3,Rockland,Haverstraw,Minisceongo Creek North Branch,March - fourth week,40,Brown Trout,12 -15 inches
+2024,3,Rockland,Haverstraw,Minisceongo Creek North Branch,March - fourth week,320,Brown Trout,9 - 10 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,April - fourth week,50,Rainbow Trout,12 -14 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,April - fourth week,450,Rainbow Trout,9 - 10 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,April - second week,50,Brown Trout,12 -15 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,April - second week,450,Brown Trout,9 - 10 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,March - fourth week,50,Rainbow Trout,12 -14 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,March - fourth week,450,Rainbow Trout,9 - 10 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,May - second week,50,Brown Trout,12 -15 inches
+2024,3,Rockland,Sloatsburg,Ramapo River,May - second week,450,Brown Trout,9 - 10 inches
+2024,3,Rockland,Ramapo,Stony Brook,March - fourth week,50,Brown Trout,12 -15 inches
+2024,3,Rockland,Ramapo,Stony Brook,March - fourth week,390,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Corinth,Corinth Reservoir Ponds,April,100,Rainbow Trout,8 inches
+2024,5,Saratoga,Corinth,Corinth Reservoir Ponds,March,320,Rainbow Trout,8 inches
+2024,5,Saratoga,Saratoga Springs,Geyser Brook,April - third week,50,Brown Trout,12 -15 inches
+2024,5,Saratoga,Saratoga Springs,Geyser Brook,April - third week,440,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Milton,Glowegee Creek,April - fourth week,70,Brown Trout,12 -15 inches
+2024,5,Saratoga,Milton,Glowegee Creek,April - fourth week,620,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Day,Great Sacandaga Lake,Mid March,12600,Rainbow Trout,8 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,April - first week,90,Brown Trout,12 -15 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,April - first week,800,Brown Trout,9 - 10 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,April - third week,90,Brown Trout,12 -15 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,April - third week,800,Brown Trout,9 - 10 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,May - first week,90,Brown Trout,12 -15 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,May - first week,800,Brown Trout,9 - 10 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,May - third week,90,Brown Trout,12 -15 inches
+2024,5,Saratoga,"Greenfield, Milton",Kayaderosseras Creek,May - third week,800,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,April - first week,110,Brown Trout,12 -15 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,April - first week,950,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,April - third week,110,Brown Trout,12 -15 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,April - third week,950,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,May - first week,110,Brown Trout,12 -15 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,May - first week,950,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,May - third week,110,Brown Trout,12 -15 inches
+2024,5,Saratoga,Milton,Kayaderosseras Creek,May - third week,950,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Moreau,Moreau Lake,Spring,3150,Rainbow Trout,8 inches
+2024,5,Saratoga,Edinburg,Palmer Lake,Spring,230,Brown Trout,8 inches
+2024,5,Saratoga,Northumbrland / Wilton,Snook Kill,March - fourth week,160,Brown Trout,12 -15 inches
+2024,5,Saratoga,Northumbrland / Wilton,Snook Kill,March - fourth week,1330,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Wilton,Snook Kill,March - fourth week,20,Brown Trout,12 -15 inches
+2024,5,Saratoga,Wilton,Snook Kill,March - fourth week,150,Brown Trout,9 - 10 inches
+2024,5,Saratoga,Corinth,Upper Corinth Reservoir,Spring,320,Rainbow Trout,8 inches
+2024,4,Schenectady,Niskayuna,Lisha Kill,March - third week,60,Brown Trout,12 -15 inches
+2024,4,Schenectady,Niskayuna,Lisha Kill,March - third week,480,Brown Trout,9 - 10 inches
+2024,4,Schoharie,Cobleskill,Holding Pond,Early May,240,Brown Trout,12 -15 inches
+2024,4,Schoharie,Cobleskill,Holding Pond,Early May,180,Brown Trout,8 inches
+2024,4,Schoharie,Cobleskill,Holding Pond,Early May,210,Rainbow Trout,8 inches
+2024,4,Schoharie,Fulton,Mallet Pond,Early May,200,Brown Trout,8 inches
+2024,4,Schoharie,Fulton,Mallet Pond,Early May,240,Rainbow Trout,8 inches
+2024,4,Schoharie,Blenheim,West Kill,April - third week,70,Brown Trout,12 -15 inches
+2024,4,Schoharie,Blenheim,West Kill,April - third week,560,Brown Trout,9 - 10 inches
+2024,8,Schuyler,Hector,Ballard Pond,Spring,620,Brook Trout,8 inches
+2024,8,Schuyler,Montour,Catharine Creek,April - May,10000,Rainbow Trout,8 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,April - fourth week,170,Brown Trout,12 -15 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,April - fourth week,1410,Brown Trout,9 - 10 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,April - second week,170,Brown Trout,12 -15 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,April - second week,1410,Brown Trout,9 - 10 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,March - fourth week,170,Brown Trout,12 -15 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,March - fourth week,1410,Brown Trout,9 - 10 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,May - second week,170,Brown Trout,12 -15 inches
+2024,8,Schuyler,Catherine,Cayuta Creek,May - second week,1410,Brown Trout,9 - 10 inches
+2024,8,Schuyler,Hector,Foster Pond,Spring,620,Brook Trout,8 inches
+2024,8,Schuyler,Hector,Potomac Pond,Spring,620,Brook Trout,8 inches
+2024,8,Seneca,Fayette,Canoga Creek,April - second week,300,Brook Trout,9 - 10 inches
+2024,8,Seneca,Lodi,Seneca Lake,Spring,23110,Brown Trout,8 inches
+2024,6,St Lawrence,Russell,Grass River,May - second week,140,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Russell,Grass River,May - second week,1220,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Clare,Grass River South Br,May - second week,250,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Clare,Grass River South Br,May - second week,2130,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Hopkinton,Hopkinton Brook,April - first week,40,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Hopkinton,Hopkinton Brook,April - first week,350,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Fine,Little River,May - first week,1400,Brook Trout,9 - 10 inches
+2024,6,St Lawrence,Fine,Little River,May - first week,120,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Fine,Little River,May - first week,1020,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Clifton,Oswegatchie River,May - third week,30,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Clifton,Oswegatchie River,May - third week,290,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Fine,Oswegatchie River,May - third week,590,Brook Trout,9 - 10 inches
+2024,6,St Lawrence,Hopkinton,Ozonia Lake,Spring,3150,Rainbow Trout,8 inches
+2024,6,St Lawrence,Parishville,Parishville Reservoir,May,1360,Brown Trout,8 inches
+2024,6,St Lawrence,Russel,Plumb Brook,May - second week,90,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Russel,Plumb Brook,May - second week,730,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Russell,Plumb Brook,May - second week,170,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Russell,Plumb Brook,May - second week,1430,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Hopkinton,St. Regis River,May - first week,40,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Hopkinton,St. Regis River,May - first week,370,Rainbow Trout,9 - 10 inches
+2024,6,St Lawrence,"Lawrence, Hopkinton",St. Regis River,May - first week,230,Brown Trout,12 -15 inches
+2024,6,St Lawrence,"Lawrence, Hopkinton",St. Regis River,May - first week,1990,Rainbow Trout,9 - 10 inches
+2024,6,St Lawrence,Fine,Star Lake,Spring,2100,Rainbow Trout,8 inches
+2024,6,St Lawrence,Fine,Sucker Lake,May,450,Brown Trout,8 inches
+2024,6,St Lawrence,Fowler,Sylvia Lake,May,3150,Rainbow Trout,8 inches
+2024,6,St Lawrence,Stockholm,Trout Brook,April - first week,30,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Stockholm,Trout Brook,April - first week,290,Brown Trout,9 - 10 inches
+2024,6,St Lawrence,Parishville and Stockholm,West Branch St. Regis River,May - first week,270,Brown Trout,12 -15 inches
+2024,6,St Lawrence,Parishville and Stockholm,West Branch St. Regis River,May - first week,2320,Brown Trout,9 - 10 inches
+2024,8,Steuben,Greenwood,Bennett Creek,April - first week,30,Brown Trout,12 -15 inches
+2024,8,Steuben,Greenwood,Bennett Creek,April - first week,210,Brown Trout,9 - 10 inches
+2024,8,Steuben,Hornellsville,Canacadea Creek,March - fourth week,30,Brown Trout,12 -15 inches
+2024,8,Steuben,Hornellsville,Canacadea Creek,March - fourth week,290,Rainbow Trout,9 - 10 inches
+2024,8,Steuben,Hornellsville,Canisteo River,March - fourth week,70,Brown Trout,12 -15 inches
+2024,8,Steuben,Hornellsville,Canisteo River,March - fourth week,620,Brown Trout,9 - 10 inches
+2024,8,Steuben,Avoca,Cohocton River,April - first week,360,Brown Trout,12 -15 inches
+2024,8,Steuben,Avoca,Cohocton River,April - first week,3110,Brown Trout,9 - 10 inches
+2024,8,Steuben,Avoca,Cohocton River,April - third week,360,Brown Trout,12 -15 inches
+2024,8,Steuben,Avoca,Cohocton River,April - third week,3110,Brown Trout,9 - 10 inches
+2024,8,Steuben,Avoca,Cohocton River,March - third week,360,Brown Trout,12 -15 inches
+2024,8,Steuben,Avoca,Cohocton River,March - third week,3110,Brown Trout,9 - 10 inches
+2024,8,Steuben,Avoca,Cohocton River,May - first week,360,Brown Trout,12 -15 inches
+2024,8,Steuben,Avoca,Cohocton River,May - first week,3110,Brown Trout,9 - 10 inches
+2024,8,Steuben,"Bath, Urbana",Cold Brook,Spring,2500,Rainbow Trout,8 inches
+2024,8,Steuben,Campbell,Meads Creek,March - fourth week,100,Brown Trout,12 -15 inches
+2024,8,Steuben,Campbell,Meads Creek,March - fourth week,860,Brown Trout,9 - 10 inches
+2024,8,Steuben,Catlin,Post Creek,March - fourth week,60,Brown Trout,12 -15 inches
+2024,8,Steuben,Catlin,Post Creek,March - fourth week,480,Brown Trout,9 - 10 inches
+2024,1,Suffolk,Babylon,Argyle Lake,March,160,Brown Trout,12 -15 inches
+2024,1,Suffolk,Babylon,Argyle Lake,March,520,Rainbow Trout,8 inches
+2024,1,Suffolk,Babylon,Belmont Lake,April,260,Brown Trout,12 -15 inches
+2024,1,Suffolk,Babylon,Belmont Lake,April,180,Brown Trout,8 inches
+2024,1,Suffolk,Babylon,Belmont Lake,April,1050,Rainbow Trout,8 inches
+2024,1,Suffolk,Babylon,Belmont Lake,March,100,Brown Trout,12 -15 inches
+2024,1,Suffolk,Babylon,Belmont Lake,March,180,Brown Trout,8 inches
+2024,1,Suffolk,Babylon,Belmont Lake,March,790,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Canaan Lake,April,940,Rainbow Trout,8 inches
+2024,1,Suffolk,Babylon,Carlls River,March - third week,100,Brown Trout,12 -15 inches
+2024,1,Suffolk,Babylon,Carlls River,March - third week,490,Brown Trout,9 - 10 inches
+2024,1,Suffolk,Babylon,Carlls River,March - third week,330,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Brookhaven,Carmans River,April,100,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Carmans River,April,400,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Brookhaven,Carmans River,April - first week,40,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Carmans River,April - first week,350,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Brookhaven,Carmans River,April - third week,40,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Carmans River,April - third week,350,Brown Trout,9 - 10 inches
+2024,1,Suffolk,Brookhaven,Carmans River,March,160,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Carmans River,March - third week,40,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Carmans River,March - third week,350,Brown Trout,9 - 10 inches
+2024,1,Suffolk,Brookhaven,Carmans River,May - first week,40,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Carmans River,May - first week,350,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Islip,Connetquot River,May,200,Brown Trout,9 - 10 inches
+2024,1,Suffolk,Islip,Connetquot River,May,200,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Brookhaven,East Lake,April,270,Brown Trout,8 inches
+2024,1,Suffolk,Brookhaven,East Lake,April,520,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Hards Lake,April,210,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Hards Lake,April,630,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Hards Lake,March,370,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Hards Lake,March,740,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Hards Lake,May,100,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Hards Lake,May,640,Brown Trout,8 inches
+2024,1,Suffolk,Brookhaven,Kahler Pond,March,520,Rainbow Trout,8 inches
+2024,1,Suffolk,Southold,Laurel Lake,April,270,Brown Trout,8 inches
+2024,1,Suffolk,Southold,Laurel Lake,April,320,Rainbow Trout,8 inches
+2024,1,Suffolk,Smithtown,Nissequogue River,April,210,Brown Trout,12 -15 inches
+2024,1,Suffolk,Smithtown,Nissequogue River,April,200,Brown Trout,9 - 10 inches
+2024,1,Suffolk,Smithtown,Nissequogue River,April,300,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Smithtown,Nissequogue River,March,210,Brown Trout,12 -15 inches
+2024,1,Suffolk,Islip,Rattlesnake Creek,May,200,Rainbow Trout,9 - 10 inches
+2024,1,Suffolk,Babylon,Southards Pond,March,160,Brown Trout,12 -15 inches
+2024,1,Suffolk,Babylon,Southards Pond,March,420,Rainbow Trout,8 inches
+2024,1,Suffolk,Huntington,Twin Pond,March,210,Brown Trout,12 -15 inches
+2024,1,Suffolk,Huntington,Twin Pond,March,160,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Upper Lake,April,160,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Upper Lake,April,420,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Upper Lake,March,260,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Upper Lake,March,420,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,Upper Lake,May,50,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,Upper Lake,May,270,Brown Trout,8 inches
+2024,1,Suffolk,Brookhaven,West Lake,April,210,Brown Trout,12 -15 inches
+2024,1,Suffolk,Brookhaven,West Lake,April,630,Rainbow Trout,8 inches
+2024,1,Suffolk,Brookhaven,West Lake,March,320,Brown Trout,12 -15 inches
+2024,3,Sullivan,Highland,Beaver Brook,April - third week,40,Brown Trout,12 -15 inches
+2024,3,Sullivan,Highland,Beaver Brook,April - third week,320,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Beaver Kill,April - third week,210,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Beaver Kill,April - third week,1740,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Beaver Kill,June - first week,210,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Beaver Kill,June - first week,1740,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Beaver Kill,May - first week,210,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Beaver Kill,May - first week,1740,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Beaver Kill,May - third week,210,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Beaver Kill,May - third week,1740,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,April - fourth week,50,Brown Trout,12 -15 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,April - fourth week,430,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,April - second week,50,Brown Trout,12 -15 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,April - second week,430,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,May - fourth week,50,Brown Trout,12 -15 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,May - fourth week,430,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,May - second week,50,Brown Trout,12 -15 inches
+2024,3,Sullivan,Callicoon,Callicoon Ck North Branch,May - second week,430,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Delaware,Callicoon Creek,April - second week,70,Brown Trout,12 -15 inches
+2024,3,Sullivan,Delaware,Callicoon Creek,April - second week,620,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Callicoon,Callicoon Creek East Branch,April - second week,40,Brown Trout,12 -15 inches
+2024,3,Sullivan,Callicoon,Callicoon Creek East Branch,April - second week,370,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Delaware,Callicoon Creek East Branch,April - second week,230,Brown Trout,12 -15 inches
+2024,3,Sullivan,Delaware,Callicoon Creek East Branch,April - second week,2020,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Neversink,Chestnut Creek,April - second week,50,Brown Trout,12 -15 inches
+2024,3,Sullivan,Neversink,Chestnut Creek,April - second week,460,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Highland,Halfway Brook,April - third week,100,Brown Trout,12 -15 inches
+2024,3,Sullivan,Highland,Halfway Brook,April - third week,900,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Liberty,Little Beaverkill,April - third week,160,Brown Trout,12 -15 inches
+2024,3,Sullivan,Liberty,Little Beaverkill,April - third week,1360,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Fallsburg,Loch Sheldrake,April,910,Brown Trout,8 inches
+2024,3,Sullivan,Lumberland,Mongaup Falls Reservoir,April - third week,1360,Brown Trout,8 inches
+2024,3,Sullivan,Bethel,Mongaup River,April - first week,90,Brown Trout,12 -15 inches
+2024,3,Sullivan,Bethel,Mongaup River,April - first week,750,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Fallsburg,Mongaup River East Branch,April - first week,90,Brown Trout,12 -15 inches
+2024,3,Sullivan,Fallsburg,Mongaup River East Branch,April - first week,740,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Bethel,Mongaup River Middle Branch,April - first week,70,Brown Trout,12 -15 inches
+2024,3,Sullivan,Bethel,Mongaup River Middle Branch,April - first week,610,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Bethel,Mongaup River West Branch,April - first week,60,Brown Trout,12 -15 inches
+2024,3,Sullivan,Bethel,Mongaup River West Branch,April - first week,530,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Neversink,Neversink Reservoir,April,3370,Brown Trout,8 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,April - fourth week,220,Brown Trout,12 -15 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,April - fourth week,1860,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,April - second week,220,Brown Trout,12 -15 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,April - second week,1860,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,May - fourth week,220,Brown Trout,12 -15 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,May - fourth week,1860,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,May - second week,220,Brown Trout,12 -15 inches
+2024,3,Sullivan,Thompson and Fallsburg,Neversink River,May - second week,1860,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Cochecton,Ten Mile River,April - third week,30,Brown Trout,12 -15 inches
+2024,3,Sullivan,Cochecton,Ten Mile River,April - third week,280,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Tusten,Ten Mile River,April - third week,50,Brown Trout,12 -15 inches
+2024,3,Sullivan,Tusten,Ten Mile River,April - third week,400,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,April - third week,80,Brown Trout,12 -15 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,April - third week,720,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,June - first week,80,Brown Trout,12 -15 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,June - first week,720,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,May - first week,80,Brown Trout,12 -15 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,May - first week,720,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,May - third week,80,Brown Trout,12 -15 inches
+2024,3,Sullivan,Neversink,Willowemoc Creek,May - third week,720,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,April - third week,320,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,April - third week,2780,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,June - first week,320,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,June - first week,2780,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,May - first week,320,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,May - first week,2780,Brown Trout,9 - 10 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,May - third week,320,Brown Trout,12 -15 inches
+2024,3,Sullivan,Rockland,Willowemoc Creek,May - third week,2780,Brown Trout,9 - 10 inches
+2024,7,Tioga,Candor,Catatonk Creek,April - second week,60,Brown Trout,12 -15 inches
+2024,7,Tioga,Candor,Catatonk Creek,April - second week,500,Brown Trout,9 - 10 inches
+2024,7,Tioga,Barton,Cayuta Creek,March - fourth week,170,Brown Trout,12 -15 inches
+2024,7,Tioga,Barton,Cayuta Creek,March - fourth week,1400,Brown Trout,9 - 10 inches
+2024,7,Tioga,"Berkshire, Richford",East Branch Owego Creek,March - fourth week,100,Brown Trout,12 -15 inches
+2024,7,Tioga,"Berkshire, Richford",East Branch Owego Creek,March - fourth week,1010,Brown Trout,9 - 10 inches
+2024,7,Tioga,"Newark Valley, Owego",East Branch Owego Creek,March - third week,60,Brown Trout,12 -15 inches
+2024,7,Tioga,"Newark Valley, Owego",East Branch Owego Creek,March - third week,520,Brown Trout,9 - 10 inches
+2024,7,Tioga,"Tioga, Owego",Owego Creek,March - third week,340,Brown Trout,12 -15 inches
+2024,7,Tioga,"Tioga, Owego",Owego Creek,March - third week,2980,Brown Trout,9 - 10 inches
+2024,7,Tioga,Richford,Tri-county Pond,May,210,Rainbow Trout,8 inches
+2024,7,Tioga,Richford,West Branch Owego Creek,March - third week,220,Brown Trout,12 -15 inches
+2024,7,Tioga,Richford,West Branch Owego Creek,March - third week,1850,Brown Trout,9 - 10 inches
+2024,7,Tompkins,Ithaca (C),Cayuga Inlet,Spring,12500,Rainbow Trout,8 inches
+2024,7,Tompkins,Ithaca (T),Cayuga Lake,April,18200,Brown Trout,8 inches
+2024,7,Tompkins,Enfield,"Enfield Ck, T4",April - third week,10,Brown Trout,12 -15 inches
+2024,7,Tompkins,Enfield,"Enfield Ck, T4",April - third week,70,Brown Trout,9 - 10 inches
+2024,7,Tompkins,Enfield,Enfield Creek,April - third week,60,Brown Trout,12 -15 inches
+2024,7,Tompkins,Enfield,Enfield Creek,April - third week,480,Brown Trout,9 - 10 inches
+2024,7,Tompkins,Ithaca (C),Enfield Creek,Spring,12500,Rainbow Trout,8 inches
+2024,7,Tompkins,Groton,Fall Creek,April - second week,210,Brown Trout,12 -15 inches
+2024,7,Tompkins,Groton,Fall Creek,April - second week,1800,Brown Trout,9 - 10 inches
+2024,7,Tompkins,Lansing,Salmon Creek,April - second week,210,Brown Trout,12 -15 inches
+2024,7,Tompkins,Lansing,Salmon Creek,April - second week,1770,Brown Trout,9 - 10 inches
+2024,7,Tompkins,Lansing,Salmon Creek,Spring,10000,Rainbow Trout,8 inches
+2024,7,Tompkins,Caroline,Sixmile Creek,April - fourth week,100,Brown Trout,12 -15 inches
+2024,7,Tompkins,Caroline,Sixmile Creek,April - fourth week,890,Brown Trout,9 - 10 inches
+2024,7,Tompkins,Dryden,Virgil Creek,April - fourth week,40,Brown Trout,12 -15 inches
+2024,7,Tompkins,Dryden,Virgil Creek,April - fourth week,370,Brown Trout,9 - 10 inches
+2024,3,Ulster,"Hurley, Olive",Ashokan Reservoir (East Basin),June,9100,Brown Trout,8 inches
+2024,3,Ulster,Olive,Ashokan Reservoir (West Basin),June,8190,Brown Trout,8 inches
+2024,3,Ulster,Wawarsing,Beer Kill,April - first week,70,Brown Trout,12 -15 inches
+2024,3,Ulster,Wawarsing,Beer Kill,April - first week,570,Brown Trout,9 - 10 inches
+2024,3,Ulster,Esopus,Black Creek,April - third week,40,Brown Trout,12 -15 inches
+2024,3,Ulster,Esopus,Black Creek,April - third week,320,Brown Trout,9 - 10 inches
+2024,3,Ulster,Saugerties,Plattekill Creek,April - first week,230,Brown Trout,12 -15 inches
+2024,3,Ulster,Saugerties,Plattekill Creek,April - first week,1920,Brown Trout,9 - 10 inches
+2024,3,Ulster,Wawarsing,Rondout Creek,April - third week,540,Brown Trout,12 -15 inches
+2024,3,Ulster,Wawarsing,Rondout Creek,April - third week,1470,Brown Trout,9 - 10 inches
+2024,3,Ulster,Wawarsing,Rondout Creek,April - third week,3160,Rainbow Trout,9 - 10 inches
+2024,3,Ulster,"Denning, Wawarsing",Rondout Reservoir,June,4820,Brown Trout,8 inches
+2024,3,Ulster,Wawarsing,Sandburg Creek,April - first week,130,Brown Trout,12 -15 inches
+2024,3,Ulster,Wawarsing,Sandburg Creek,April - first week,1150,Brown Trout,9 - 10 inches
+2024,3,Ulster,Woodstock,Sawkill Creek,April - first week,100,Brown Trout,12 -15 inches
+2024,3,Ulster,Woodstock,Sawkill Creek,April - first week,840,Brown Trout,9 - 10 inches
+2024,3,Ulster,Wawarsing,Vernooy Kill,April - third week,30,Brown Trout,12 -15 inches
+2024,3,Ulster,Wawarsing,Vernooy Kill,April - third week,220,Brown Trout,9 - 10 inches
+2024,5,Warren,Johnsburg,Botheration Pond,Spring,270,Brown Trout,8 inches
+2024,5,Warren,Horicon,Brant Lake,Spring,3000,Brown Trout,8 inches
+2024,5,Warren,Horicon,Brant Lake,Spring,3460,Rainbow Trout,8 inches
+2024,5,Warren,Chester/Minerva,Clear Pond,Spring,280,Rainbow Trout,8 inches
+2024,5,Warren,Johnsburg,Glen Creek,April - second week,60,Brown Trout,12 -15 inches
+2024,5,Warren,Johnsburg,Glen Creek,April - second week,490,Brown Trout,9 - 10 inches
+2024,5,Warren,Queensbury,Glen Lake,Spring,2000,Rainbow Trout,8 inches
+2024,5,Warren,Johnsburg,Hudson River,April - third week,150,Brown Trout,12 -15 inches
+2024,5,Warren,Johnsburg,Hudson River,April - third week,1300,Brown Trout,9 - 10 inches
+2024,5,Warren,Johnsburg,Hudson River,June - first week,150,Brown Trout,12 -15 inches
+2024,5,Warren,Johnsburg,Hudson River,June - first week,1300,Brown Trout,9 - 10 inches
+2024,5,Warren,Johnsburg,Hudson River,May - first week,150,Brown Trout,12 -15 inches
+2024,5,Warren,Johnsburg,Hudson River,May - first week,1300,Brown Trout,9 - 10 inches
+2024,5,Warren,Johnsburg,Hudson River,May - third week,150,Brown Trout,12 -15 inches
+2024,5,Warren,Johnsburg,Hudson River,May - third week,1300,Brown Trout,9 - 10 inches
+2024,5,Warren,Lake Luzerne,Lake Luzerne,Spring,1150,Rainbow Trout,8 inches
+2024,5,Warren,Johnsburg,Mill Creek,April - third week,70,Brown Trout,12 -15 inches
+2024,5,Warren,Johnsburg,Mill Creek,April - third week,600,Brown Trout,9 - 10 inches
+2024,5,Warren,Stony Creek,New Lake,Spring,410,Brown Trout,8 inches
+2024,5,Warren,Chester,Palmer Pond,Spring,270,Brown Trout,8 inches
+2024,5,Warren,Horicon,Round Pond,Spring,320,Rainbow Trout,8 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,April - third week,100,Brown Trout,12 -15 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,April - third week,850,Brown Trout,9 - 10 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,June - first week,100,Brown Trout,12 -15 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,June - first week,850,Brown Trout,9 - 10 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,May - first week,100,Brown Trout,12 -15 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,May - first week,850,Brown Trout,9 - 10 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,May - third week,100,Brown Trout,12 -15 inches
+2024,5,Warren,"Bolton, Brant Lk, Chester, Horicon",Schroon River,May - third week,850,Brown Trout,9 - 10 inches
+2024,5,Warren,Johnsburg,Upper Siamese Lake,Spring,370,Rainbow Trout,8 inches
+2024,5,Washington,Greenwich,Batten Kill,April - second week,250,Brown Trout,12 -15 inches
+2024,5,Washington,Greenwich,Batten Kill,April - second week,2180,Brown Trout,9 - 10 inches
+2024,5,Washington,Greenwich,Batten Kill,April - third week,120,Brown Trout,12 -15 inches
+2024,5,Washington,Greenwich,Batten Kill,April - third week,1000,Brown Trout,9 - 10 inches
+2024,5,Washington,Greenwich,Batten Kill,June - first week,120,Brown Trout,12 -15 inches
+2024,5,Washington,Greenwich,Batten Kill,June - first week,1000,Brown Trout,9 - 10 inches
+2024,5,Washington,Greenwich,Batten Kill,May - first week,120,Brown Trout,12 -15 inches
+2024,5,Washington,Greenwich,Batten Kill,May - first week,1000,Brown Trout,9 - 10 inches
+2024,5,Washington,Greenwich,Batten Kill,May - third week,120,Brown Trout,12 -15 inches
+2024,5,Washington,Greenwich,Batten Kill,May - third week,1000,Brown Trout,9 - 10 inches
+2024,5,Washington,Salem,Batten Kill,April - third week,380,Brown Trout,12 -15 inches
+2024,5,Washington,Salem,Batten Kill,April - third week,3060,Brown Trout,9 - 10 inches
+2024,5,Washington,Salem,Batten Kill,June - first week,60,Brown Trout,12 -15 inches
+2024,5,Washington,Salem,Batten Kill,June - first week,3060,Brown Trout,9 - 10 inches
+2024,5,Washington,Salem,Batten Kill,May - first week,360,Brown Trout,12 -15 inches
+2024,5,Washington,Salem,Batten Kill,May - first week,3060,Brown Trout,9 - 10 inches
+2024,5,Washington,Salem,Batten Kill,May - third week,360,Brown Trout,12 -15 inches
+2024,5,Washington,Salem,Batten Kill,May - third week,3060,Brown Trout,9 - 10 inches
+2024,5,Washington,Jackson,Dead Lake,May,540,Rainbow Trout,8 inches
+2024,5,Washington,Granville,Indian River,April - third week,40,Brown Trout,12 -15 inches
+2024,5,Washington,Granville,Indian River,April - third week,320,Brown Trout,9 - 10 inches
+2024,5,Washington,Whitehall,Mettawee River,April - fourth week,230,Brown Trout,12 -15 inches
+2024,5,Washington,Whitehall,Mettawee River,April - fourth week,2010,Rainbow Trout,9 - 10 inches
+2024,5,Washington,Whitehall,Mettawee River,April - second week,230,Brown Trout,12 -15 inches
+2024,5,Washington,Whitehall,Mettawee River,April - second week,2010,Rainbow Trout,9 - 10 inches
+2024,5,Washington,Whitehall,Mettawee River,May - fourth week,230,Brown Trout,12 -15 inches
+2024,5,Washington,Whitehall,Mettawee River,May - fourth week,2010,Rainbow Trout,9 - 10 inches
+2024,5,Washington,Whitehall,Mettawee River,May - second week,230,Brown Trout,12 -15 inches
+2024,5,Washington,Whitehall,Mettawee River,May - second week,2010,Rainbow Trout,9 - 10 inches
+2024,8,Wayne,Sodus,Lake Ontario,May,29530,Brown Trout,8 inches
+2024,8,Wayne,Williamson,Lake Ontario,May,22040,Brown Trout,8 inches
+2024,3,Westchester,Somers,Amawalk Inlet (Muscoot River),March - third week,50,Brown Trout,12 -15 inches
+2024,3,Westchester,Somers,Amawalk Inlet (Muscoot River),March - third week,460,Brown Trout,9 - 10 inches
+2024,3,Westchester,Somers,Amawalk Reservoir,March - third week,1820,Brown Trout,8 inches
+2024,3,Westchester,Bedford,Cross River Reservoir,March - third week,6820,Brown Trout,8 inches
+2024,3,Westchester,Bedford,Cross River Reservoir Outlet,March - third week,50,Rainbow Trout,12 -14 inches
+2024,3,Westchester,Bedford,Cross River Reservoir Outlet,March - third week,540,Rainbow Trout,9 - 10 inches
+2024,3,Westchester,Cortlandt,Croton River,March - third week,110,Rainbow Trout,12 -14 inches
+2024,3,Westchester,Cortlandt,Croton River,March - third week,990,Rainbow Trout,9 - 10 inches
+2024,3,Westchester,Cortlandt,Dogwood Pond,March - April,380,Brook Trout,8 inches
+2024,3,Westchester,Cortlandt,Dogwood Pond,March - April,230,Brown Trout,8 inches
+2024,3,Westchester,Harrison,Kensico Reservoir,April,9100,Brown Trout,8 inches
+2024,3,Westchester,Somers,Muscoot Reservoir,March - April,910,Brown Trout,8 inches
+2024,3,Westchester,Somers,Muscoot Reservoir,March - April,1050,Rainbow Trout,8 inches
+2024,3,Westchester,Mount Pleasant,Pocantico River,March - third week,60,Brown Trout,12 -15 inches
+2024,3,Westchester,Mount Pleasant,Pocantico River,March - third week,540,Brown Trout,9 - 10 inches
+2024,3,Westchester,Bedford,Stone Hill River,March - third week,50,Brown Trout,12 -15 inches
+2024,3,Westchester,Bedford,Stone Hill River,March - third week,520,Brown Trout,9 - 10 inches
+2024,3,Westchester,North Salem,Titicus Reservoir,April,3820,Brown Trout,8 inches
+2024,3,Westchester,North Salem,Titicus Reservoir,April,4410,Rainbow Trout,8 inches
+2024,3,Westchester,North Salem,Titicus River,March - third week,40,Rainbow Trout,12 -14 inches
+2024,3,Westchester,North Salem,Titicus River,March - third week,370,Rainbow Trout,9 - 10 inches
+2024,3,Westchester,Lewisboro,Waccabuc River,March - third week,30,Brown Trout,12 -15 inches
+2024,3,Westchester,Lewisboro,Waccabuc River,March - third week,270,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Java,Buffalo Creek,March - fourth week,50,Brown Trout,12 -15 inches
+2024,9,Wyoming,Java,Buffalo Creek,March - fourth week,430,Rainbow Trout,9 - 10 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,April - first week,250,Brown Trout,12 -15 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,April - first week,2180,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,April - third week,250,Brown Trout,12 -15 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,April - third week,2180,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,March - third week,250,Brown Trout,12 -15 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,March - third week,2180,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,May - first week,250,Brown Trout,12 -15 inches
+2024,9,Wyoming,Java,Cattaraugus Creek,May - first week,2180,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,April - fourth week,320,Brown Trout,12 -15 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,April - fourth week,2740,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,April - second week,320,Brown Trout,12 -15 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,April - second week,2740,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,March - fourth week,320,Brown Trout,12 -15 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,March - fourth week,2740,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,May - second week,320,Brown Trout,12 -15 inches
+2024,9,Wyoming,Gainesville,East Koy Creek,May - second week,2740,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Genesee Falls,Letchworth Park Pond,March,320,Rainbow Trout,8 inches
+2024,9,Wyoming,Genesee Falls,Letchworth Park Pond,May,320,Rainbow Trout,8 inches
+2024,9,Wyoming,Middlebury,Little Tonawanda Creek,March - fourth week,40,Brown Trout,12 -15 inches
+2024,9,Wyoming,Middlebury,Little Tonawanda Creek,March - fourth week,380,Brown Trout,9 - 10 inches
+2024,9,Wyoming,Perry,Perry Park Pond,Mid April,100,Rainbow Trout,8 inches
+2024,9,Wyoming,Orangeville,Tonawanda Creek,March - fourth week,140,Brown Trout,12 -15 inches
+2024,9,Wyoming,Orangeville,Tonawanda Creek,March - fourth week,1200,Rainbow Trout,9 - 10 inches
+2024,8,Yates,"Milo, Torrey",Keuka Lake Outlet,April - second week,160,Brown Trout,12 -15 inches
+2024,8,Yates,"Milo, Torrey",Keuka Lake Outlet,April - second week,1350,Brown Trout,9 - 10 inches
